@@ -3,7 +3,7 @@
 # for more information, please refer to the documentation of jekyll-socials plugin: https://github.com/george-gca/jekyll-socials
 cv_pdf: /assets/pdf/Nigus_Teklehaymanot_Resume.pdf # path to your CV PDF file
 email: nigusgtekle@gmail.com # your email address
-# github_username: Nigusgt # uncomment and keep if you want the GitHub icon
-# scholar_userid: # add your Google Scholar ID when available
-# linkedin_username: # add your LinkedIn username when available
+scholar_userid: 1KqqaSUAAAAJ # your Google Scholar ID
+linkedin_username: nigusgtekle # your LinkedIn username
+github_username: Nigusgt # your GitHub username
 rss_icon: false # comment this line to hide the RSS icon

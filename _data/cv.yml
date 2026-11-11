@@ -10,8 +10,12 @@ cv:
     and as a teaching assistant at UC Irvine since Fall 2023.
 
   social_networks:
+    - network: LinkedIn
+      username: nigusgtekle
     - network: GitHub
       username: Nigusgt
+    - network: Google Scholar
+      username: 1KqqaSUAAAAJ
 
   address:
     city: Irvine
@@ -126,15 +130,18 @@ cv:
         authors:
           - Nigus Teklehaymanot
           - Tripti Sharma
+        publisher: International Journal of Mathematics and its Applications
         releaseDate: 2013
-        summary: Ethiopia, 2013. Co-authored and proofread with Dr. Tripti Sharma.
+        url: https://ijmaa.in/index.php/ijmaa/article/view/291
+        summary: Vol. 1, No. 1, pp. 12–18.
 
       - title: Minimizing the Range of Lateness for n-Jobs, 3-Machines Sequencing Problem with Due Date, Transportation Times and Equivalent Job for Block of Jobs — A Heuristic Approach
         authors:
-          - Nigus Teklehaymanot
           - Tripti Sharma
+          - Nigus Teklehaymanot
+        publisher: International Journal of Current Research in Science and Technology
         releaseDate: 2015
-        summary: Ethiopia, 2015. Co-authored and proofread with Dr. Tripti Sharma.
+        summary: Vol. 1, No. 1, pp. 1–7.
 
     Skills:
       - name: Teaching
