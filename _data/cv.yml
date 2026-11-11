@@ -151,16 +151,6 @@ cv:
           - Nigus Teklehaymanot
         summary: Manuscript in progress.
 
-      - title: Line-of-Sight Diversity for Moving-Target Separation in Wide-Angle and Circular SAR via Robust PCA
-        authors:
-          - Nigus Teklehaymanot
-        summary: Manuscript in progress.
-
-      - title: Ego-Motion-Aware Tensor Robust PCA for Static Clutter Suppression and Moving Target Detection in MIMO Radar
-        authors:
-          - Nigus Teklehaymanot
-        summary: Manuscript in progress.
-
       - title: "Solving Multilinear Systems via Tensor Inversion under the t-Product Framework: Theory, Algorithms, and Applications"
         authors:
           - Nigus Teklehaymanot
