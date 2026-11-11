@@ -103,11 +103,13 @@ cv:
       - title: Multi-Look Imaging of Moving Targets in Clutter with a Stationary MIMO Radar via t-SVD
         authors:
           - Nigus Teklehaymanot
+        releaseDate: 2026
         summary: Manuscript in progress.
 
       - title: "Solving Multilinear Systems via Tensor Inversion under the t-Product Framework: Theory, Algorithms, and Applications"
         authors:
           - Nigus Teklehaymanot
+        releaseDate: 2026
         summary: Collaborative paper with faculty advisor; in progress.
 
       - title: Backward Error, Perturbation Bounds, and Efficient Solvers for the t-Sylvester Tensor Equation
