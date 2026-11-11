@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2025-11-01 12:00:00-0800
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Ph.D. Candidate in Mathematics at UC Irvine with fourteen years of college teaching experience, seeking a lecturer or teaching faculty position.
