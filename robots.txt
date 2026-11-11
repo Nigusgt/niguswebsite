@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://nigusgt.github.io/niguswebsite/sitemap.xml
