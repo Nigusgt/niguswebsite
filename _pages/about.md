@@ -31,4 +31,4 @@ I am a Ph.D. Candidate in Mathematics at the University of California, Irvine, w
 
 I have taught developmental through advanced undergraduate courses — including calculus, linear algebra, differential equations, probability and statistics, number theory, and optimization — and I have advised undergraduate senior seminar projects.
 
-My doctoral research is in tensor methods and their applications, including the _t_-product, _t_-SVD, and tensor robust PCA.
+My doctoral research is in tensor methods and their applications to radar signal processing, including the _t_-product, _t_-SVD, and tensor robust PCA for MIMO radar and synthetic aperture radar (SAR).
