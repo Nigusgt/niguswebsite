@@ -39,20 +39,8 @@ Number Theory, Linear Algebra, Calculus III, and Optimization Theory. Formal adv
 
 Calculus I, Calculus II, Solid Geometry, and Differential Equations.
 
-### Coordinator of Math Club and Tutoring Service — Samara University
-**February 2009–August 2010**
-
-Organized a mathematics competition for undergraduates and arranged tutoring services.
-
 ## Courses taught
 
 **Lower-division and supporting courses:** Intermediate Algebra; College Algebra; Pre-Calculus; Calculus I; Calculus II; Multivariable Calculus; Introduction to Probability and Statistics; Introduction to Statistics; Statway I; Math for Lab Science.
 
 **Additional undergraduate courses:** Calculus III; Linear Algebra; Differential Equations; Partial Differential Equations; Numerical Analysis; Number Theory; Optimization Theory; Solid Geometry.
-
-## Instructional leadership and service
-
-- Curriculum development committee member, Mekelle University, 2014
-- Research and module publication committee member, Samara University, 2010
-- Curriculum development committee member, Samara University, 2009
-- Volunteer mathematics tutor for undergraduate summer students, Mekelle University, 2008

@@ -99,46 +99,6 @@ cv:
         highlights:
           - Calculus I, Calculus II, Solid Geometry, Differential Equations
 
-      - company: Samara University
-        position: Coordinator of Math Club and Tutoring Service
-        location: Samara, Ethiopia
-        start_date: 2009-02
-        end_date: 2010-08
-        highlights:
-          - Organized a mathematics competition for undergraduates and arranged tutoring services
-
-      - company: NTNU
-        position: Research Assistant
-        location: Trondheim, Norway
-        start_date: 2016-09
-        end_date: 2017-12
-        summary: Assisted Prof. Kristian Seip on Dirichlet Series and Analysis on Polydiscs.
-
-    Volunteer:
-      - company: Mekelle University
-        position: Curriculum development committee member
-        location: Mekelle, Ethiopia
-        start_date: 2014
-        end_date: 2014
-
-      - company: Samara University
-        position: Research and module publication committee member
-        location: Samara, Ethiopia
-        start_date: 2010
-        end_date: 2010
-
-      - company: Samara University
-        position: Curriculum development committee member
-        location: Samara, Ethiopia
-        start_date: 2009
-        end_date: 2009
-
-      - company: Mekelle University
-        position: Volunteer mathematics tutor for undergraduate summer students
-        location: Mekelle, Ethiopia
-        start_date: 2008
-        end_date: 2008
-
     Awards:
       - title: Norwegian Quota Scholarship Scheme
         date: 2015
