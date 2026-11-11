@@ -9,11 +9,11 @@ last_name: Teklehaymanot
 contact_note: >
   Prefer email. UCI: teklehan@uci.edu · Personal: nigusgtekle@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Ph.D. Candidate in Mathematics at UC Irvine with fourteen years of college teaching experience, seeking a lecturer or teaching faculty position.
+  Ph.D. Candidate in Mathematics at UC Irvine with fourteen years of college teaching experience, open to lecturer roles and industry positions.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-keywords: mathematics teaching, lecturer, teaching faculty, calculus, linear algebra, UC Irvine, community college # add your own keywords or leave empty
+keywords: mathematics teaching, lecturer, industry, calculus, linear algebra, UC Irvine, signal processing # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 📐 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 apple_touch_icon: # image name in /assets/img/ (or a rooted path / absolute URL) used for iOS home-screen bookmarks; needs a real 180x180 PNG, since Safari ignores the emoji favicon above. Left empty, iOS falls back to a screenshot of the page.

@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Ph.D. Candidate in Mathematics at UC Irvine with fourteen years of college teaching experience, seeking a lecturer or teaching faculty position.
+Ph.D. Candidate in Mathematics at UC Irvine with fourteen years of college teaching experience, seeking lecturer roles and open to industry positions.

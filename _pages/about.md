@@ -30,6 +30,6 @@ latest_posts:
 
 I am a Ph.D. Candidate in Mathematics at the University of California, Irvine, with fourteen years of college mathematics teaching experience in California community colleges and at universities in Ethiopia, and as a teaching assistant at UC Irvine since Fall 2023.
 
-I have taught developmental through advanced undergraduate courses — including calculus, linear algebra, differential equations, probability and statistics, number theory, and optimization — and I have advised undergraduate senior seminar projects. I am seeking a lecturer or teaching faculty position at a California State University or a similar teaching-focused public university.
+I have taught developmental through advanced undergraduate courses — including calculus, linear algebra, differential equations, probability and statistics, number theory, and optimization — and I have advised undergraduate senior seminar projects. I am seeking a lecturer or teaching faculty position at a college or university, and I am also open to industry roles where I can apply my mathematical and analytical background.
 
 My doctoral research is in tensor methods and their applications, including the _t_-product, _t_-SVD, and tensor robust PCA.
