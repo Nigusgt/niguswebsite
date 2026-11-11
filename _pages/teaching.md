@@ -29,11 +29,6 @@ Introduction to Probability and Statistics and Intermediate Algebra.
 
 College Algebra, Statway I, Calculus I, and Calculus II.
 
-### Instructional Assistant, Math Lab — Diablo Valley College, Pleasant Hill, CA
-**May 15, 2019–Summer 2022**
-
-Supervise student tutors and assist with daily operations of the student learning center.
-
 ### Lecturer of Mathematics — Mekelle University, Mekelle, Ethiopia
 **September 2013–August 2015**
 
