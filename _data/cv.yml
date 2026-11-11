@@ -26,24 +26,18 @@ cv:
         studyType: Ph.D. Candidate
         end_date: Present
         highlights:
-          - Doctoral research in tensor methods (t-product, t-SVD, tensor robust PCA).
+          - Doctoral research in tensor methods in Radar (SAR) (t-product, t-SVD, tensor robust PCA).
 
       - institution: Norwegian University of Science and Technology (NTNU)
         location: Trondheim, Norway
         area: Mathematical Sciences
-        studyType: M.S.
+        studyType: Master of Science
         end_date: 2018-05
-
-      - institution: Samara University
-        location: Samara, Ethiopia
-        area: Teacher Education
-        studyType: Licensed Professional Teacher Educator
-        end_date: 2010-05
 
       - institution: Mekelle University
         location: Mekelle, Ethiopia
         area: Mathematics and Physics
-        studyType: B.S.
+        studyType: Bachelor of Education
         end_date: 2008-07
 
     Experience:
