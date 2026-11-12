@@ -19,8 +19,38 @@ category: work
 
 Founder and coordinator — curriculum framing, tutor coordination, and the Zoom-based delivery workflow.
 
-## Homepage mockup
+## Courses
 
-Original homepage design (PDF):
+Course catalog pages were organized by level and topic filters (Arithmetic, Algebra, Geometry), including:
+
+**High school level**
+
+- Algebra & Linear Equations
+- Functions and related intermediate topics
+- Geometry
+- Statistics & Probability
+
+**College level**
+
+- Algebra & Functions
+- Trigonometry
+- Statistics & Probability
+- Calculus for Business
+- Analytic Geometry
+- Finite Math
+
+[Download Courses page (PDF)]({{ '/assets/pdf/Kings_Mathlab_Courses.pdf' | relative_url }})
+
+## Pricing (2021 plans)
+
+| Plan | Price | Highlights |
+| --- | --- | --- |
+| On Demand | $19.99 / session | 1 hour, 1 class, 1 topic, 24/7 support |
+| Monthly | $249.99 / month | 16 classes, 20 topics, 2 one-on-one sessions, 24/7 support |
+| Semester | $999.99 / semester | 150 classes, 120 topics, 10 one-on-one sessions, 24/7 support |
+
+[Download Pricing page (PDF)]({{ '/assets/pdf/Kings_Mathlab_Pricing.pdf' | relative_url }})
+
+## Homepage mockup
 
 [Download Kings Mathlab homepage (PDF)]({{ '/assets/pdf/Kings_Mathlab.pdf' | relative_url }})
