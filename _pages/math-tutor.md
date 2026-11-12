@@ -194,26 +194,83 @@ nav_order: 4
     </div>
   </section>
 
-  <section class="kml-section" id="kml-courses">
+<section class="kml-section" id="kml-courses">
     <h2>COURSES</h2>
-    <p class="kml-muted" style="text-align:center;max-width:40rem;margin:0 auto 1.1rem;">
-      Browse high school and college/university mathematics courses across Arithmetic, Algebra, Geometry, and more.
+    <p class="kml-muted" style="text-align:center;max-width:44rem;margin:0 auto 1.1rem;">
+      UCI Mathematics undergraduate courses we can support through Kings Mathlab tutoring
+      (based on the <a href="https://catalogue.uci.edu/allcourses/math/" target="_blank" rel="noopener">UCI MATH catalogue</a>).
     </p>
-    <h3 style="text-align:center;color:var(--kml-navy);font-size:1.05rem;">High school level</h3>
+    <h3 style="text-align:center;color:var(--kml-navy);font-size:1.05rem;">Lower-division</h3>
     <div class="kml-course-grid" style="margin-bottom:1.25rem;">
-      <div class="kml-course"><span>HIGH SCHOOL</span>Algebra &amp; Linear Equations</div>
-      <div class="kml-course"><span>HIGH SCHOOL</span>Functions</div>
-      <div class="kml-course"><span>HIGH SCHOOL</span>Geometry</div>
-      <div class="kml-course"><span>HIGH SCHOOL</span>Statistics &amp; Probability</div>
+      <div class="kml-course"><span>LOWER · MATH 1A</span>Pre-Calculus I</div>
+      <div class="kml-course"><span>LOWER · MATH 1B</span>Pre-Calculus II</div>
+      <div class="kml-course"><span>LOWER · MATH 2A</span>Single-Variable Calculus I</div>
+      <div class="kml-course"><span>LOWER · MATH 2AX</span>Calculus Preparation</div>
+      <div class="kml-course"><span>LOWER · MATH 2B</span>Single-Variable Calculus II</div>
+      <div class="kml-course"><span>LOWER · MATH 2BX</span>Calculus Preparation II</div>
+      <div class="kml-course"><span>LOWER · MATH 2D</span>Multivariable Calculus I</div>
+      <div class="kml-course"><span>LOWER · MATH 2E</span>Multivariable Calculus II</div>
+      <div class="kml-course"><span>LOWER · MATH 3A</span>Introduction to Linear Algebra</div>
+      <div class="kml-course"><span>LOWER · MATH 3D</span>Elementary Differential Equations</div>
+      <div class="kml-course"><span>LOWER · MATH 5A</span>Calculus for Life Sciences I</div>
+      <div class="kml-course"><span>LOWER · MATH 5B</span>Calculus for Life Sciences II</div>
+      <div class="kml-course"><span>LOWER · MATH 8</span>Explorations in Functions and Modeling</div>
+      <div class="kml-course"><span>LOWER · MATH 9</span>Introduction to Programming for Numerical Analysis</div>
+      <div class="kml-course"><span>LOWER · MATH 10</span>Introduction to Programming for Data Science</div>
+      <div class="kml-course"><span>LOWER · MATH 13</span>Introduction to Abstract Mathematics</div>
+      <div class="kml-course"><span>LOWER · MATH 13X</span>Skills for Success in Abstract Math</div>
+      <div class="kml-course"><span>LOWER · MATH 99</span>New Math Major Seminar for First-Year and Transfer Students</div>
     </div>
-    <h3 style="text-align:center;color:var(--kml-navy);font-size:1.05rem;">College / university level</h3>
+    <h3 style="text-align:center;color:var(--kml-navy);font-size:1.05rem;">Upper-division</h3>
     <div class="kml-course-grid">
-      <div class="kml-course"><span>COLLEGE</span>Algebra &amp; Functions</div>
-      <div class="kml-course"><span>COLLEGE</span>Trigonometry</div>
-      <div class="kml-course"><span>COLLEGE</span>Statistics &amp; Probability</div>
-      <div class="kml-course"><span>COLLEGE</span>Calculus for Business</div>
-      <div class="kml-course"><span>COLLEGE</span>Analytic Geometry</div>
-      <div class="kml-course"><span>COLLEGE</span>Finite Math</div>
+      <div class="kml-course"><span>UPPER · MATH 105A</span>Numerical Analysis I</div>
+      <div class="kml-course"><span>UPPER · MATH 105B</span>Numerical Analysis II</div>
+      <div class="kml-course"><span>UPPER · MATH 105LA</span>Numerical Analysis Laboratory</div>
+      <div class="kml-course"><span>UPPER · MATH 105LB</span>Numerical Analysis Laboratory</div>
+      <div class="kml-course"><span>UPPER · MATH 107</span>Numerical Differential Equations</div>
+      <div class="kml-course"><span>UPPER · MATH 107L</span>Numerical Differential Equations Laboratory</div>
+      <div class="kml-course"><span>UPPER · MATH 110A</span>Optimization I</div>
+      <div class="kml-course"><span>UPPER · MATH 110B</span>Optimization II</div>
+      <div class="kml-course"><span>UPPER · MATH 112A</span>Introduction to Partial Differential Equations and Applications I</div>
+      <div class="kml-course"><span>UPPER · MATH 112B</span>Introduction to Partial Differential Equations and Applications II</div>
+      <div class="kml-course"><span>UPPER · MATH 112C</span>Introduction to Partial Differential Equations and Applications III</div>
+      <div class="kml-course"><span>UPPER · MATH 113A</span>Mathematical Modeling in Biology I</div>
+      <div class="kml-course"><span>UPPER · MATH 113B</span>Mathematical Modeling in Biology II</div>
+      <div class="kml-course"><span>UPPER · MATH 115</span>Mathematical Modeling</div>
+      <div class="kml-course"><span>UPPER · MATH 117</span>Dynamical Systems</div>
+      <div class="kml-course"><span>UPPER · MATH 118</span>The Theory of Differential Equations</div>
+      <div class="kml-course"><span>UPPER · MATH 120A</span>Introduction to Abstract Algebra: Groups</div>
+      <div class="kml-course"><span>UPPER · MATH 120B</span>Introduction to Abstract Algebra: Rings and Fields</div>
+      <div class="kml-course"><span>UPPER · MATH 120C</span>Introduction to Abstract Algebra: Galois Theory</div>
+      <div class="kml-course"><span>UPPER · MATH 121A</span>Linear Algebra I</div>
+      <div class="kml-course"><span>UPPER · MATH 121B</span>Linear Algebra II</div>
+      <div class="kml-course"><span>UPPER · MATH 130A</span>Probability I</div>
+      <div class="kml-course"><span>UPPER · MATH 130B</span>Probability II</div>
+      <div class="kml-course"><span>UPPER · MATH 130C</span>Stochastic Processes</div>
+      <div class="kml-course"><span>UPPER · MATH 134A</span>Fixed Income</div>
+      <div class="kml-course"><span>UPPER · MATH 134B</span>Mathematics of Financial Derivatives</div>
+      <div class="kml-course"><span>UPPER · MATH 134C</span>Mathematical Models for Finance</div>
+      <div class="kml-course"><span>UPPER · MATH 140A</span>Elementary Analysis I</div>
+      <div class="kml-course"><span>UPPER · MATH 140B</span>Elementary Analysis II</div>
+      <div class="kml-course"><span>UPPER · MATH 140C</span>Analysis in Several Variables</div>
+      <div class="kml-course"><span>UPPER · MATH 141</span>Introduction to Topology</div>
+      <div class="kml-course"><span>UPPER · MATH 147</span>Complex Analysis</div>
+      <div class="kml-course"><span>UPPER · MATH 150</span>Introduction to Mathematical Logic</div>
+      <div class="kml-course"><span>UPPER · MATH 161</span>Modern Geometry</div>
+      <div class="kml-course"><span>UPPER · MATH 162A</span>Introduction to Differential Geometry I</div>
+      <div class="kml-course"><span>UPPER · MATH 162B</span>Introduction to Differential Geometry II</div>
+      <div class="kml-course"><span>UPPER · MATH 173A</span>Introduction to Cryptology I</div>
+      <div class="kml-course"><span>UPPER · MATH 173B</span>Introduction to Cryptology II</div>
+      <div class="kml-course"><span>UPPER · MATH 175</span>Combinatorics</div>
+      <div class="kml-course"><span>UPPER · MATH 176</span>Mathematics of Finance</div>
+      <div class="kml-course"><span>UPPER · MATH 178</span>Mathematical Machine Learning</div>
+      <div class="kml-course"><span>UPPER · MATH 180A</span>Number Theory I</div>
+      <div class="kml-course"><span>UPPER · MATH 180B</span>Number Theory II</div>
+      <div class="kml-course"><span>UPPER · MATH 184</span>Topics in the History of Mathematics</div>
+      <div class="kml-course"><span>UPPER · MATH 184L</span>History of Mathematics Lesson Lab</div>
+      <div class="kml-course"><span>UPPER · MATH 192</span>Studies in the Learning and Teaching of Secondary Mathematics</div>
+      <div class="kml-course"><span>UPPER · MATH 194</span>Problem Solving Seminar</div>
+      <div class="kml-course"><span>UPPER · MATH 195W</span>Mathematical Writing</div>
     </div>
   </section>
 
