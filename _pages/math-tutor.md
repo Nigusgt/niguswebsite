@@ -281,7 +281,7 @@ nav_order: 4
       </div>
       <div class="kml-price">
         <div class="tag">SEMESTER</div>
-        <div class="amount">$999.99/SEM</div>
+        <div class="amount">$???.??/SEM</div>
         <ul>
           <li>1HR Per Class</li>
           <li>150 Total Classes</li>
