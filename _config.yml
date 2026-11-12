@@ -9,11 +9,12 @@ last_name: Teklehaymanot
 contact_note: >
   Prefer email. UCI: teklehan@uci.edu · Personal: nigusgtekle@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Ph.D. Candidate in Applied Mathematics at UC Irvine with fourteen years of college teaching experience.
+  Official academic website of Nigus Teklehaymanot, Ph.D. Candidate in Applied Mathematics at UC Irvine.
+  Teaching, research in tensor methods for radar and SAR imaging, CV, and publications.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-keywords: mathematics teaching, lecturer, industry, calculus, linear algebra, UC Irvine, signal processing # add your own keywords or leave empty
+keywords: Nigus Teklehaymanot, Nigus Girmay Teklehaymanot, Applied Mathematics, UC Irvine, tensor methods, SAR, MIMO radar, lecturer # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 📐 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 apple_touch_icon: # image name in /assets/img/ (or a rooted path / absolute URL) used for iOS home-screen bookmarks; needs a real 180x180 PNG, since Safari ignores the emoji favicon above. Left empty, iOS falls back to a screenshot of the page.
@@ -109,9 +110,9 @@ max_width: 930px
 # -----------------------------------------------------------------------------
 # Display links to the page with a preview object on social media.
 # see https://schema.org/docs/faq.html for more information
-serve_og_meta: false # Include Open Graph meta tags in the HTML head
-serve_schema_org: false # Include Schema.org in the HTML head
-og_image: # The site-wide (default for all links) Open Graph preview image
+serve_og_meta: true # Include Open Graph meta tags in the HTML head
+serve_schema_org: true # Include Schema.org in the HTML head
+og_image: assets/img/prof_pic.jpg # The site-wide (default for all links) Open Graph preview image
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
