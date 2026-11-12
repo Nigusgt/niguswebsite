@@ -1,13 +1,17 @@
 ---
 layout: page
-title: Kings Mathlab
-description: Online math tuition and homework help center (founder & coordinator, 2021)
-img: assets/img/projects/kings-mathlab.jpg
-importance: 2
-category: work
+permalink: /online-tutoring/
+title: online tutoring
+description: Kings Mathlab — online math tuition and homework help (founder & coordinator).
+nav: true
+nav_order: 4
 ---
 
+# Kings Mathlab
+
 **Kings Mathlab** is an online Math tutoring center for high school, college, and university students — a virtual learning center where students learn from talented tutors, inspiring peers, and role-model instructors. I founded and coordinated it around 2021. Sessions ran over Zoom, with a main Math Lab host room and breakout rooms for tutoring on a virtual whiteboard.
+
+![Kings Mathlab homepage]({{ '/assets/img/projects/kings-mathlab.jpg' | relative_url }}){: width="100%" }
 
 ## Our vision
 
@@ -21,15 +25,11 @@ We strive to improve the overall return on investment in education by helping st
 
 **Independence.** We create content to serve our mission of providing an excellent and affordable math education to all.
 
-## Model
+## How it works
 
 - Students join a shared Zoom Math Lab, then move into breakout rooms with a tutor
-- Offerings spanned school-level, college-level, and advanced mathematics
+- Offerings span school-level, college-level, and advanced mathematics
 - Focused on Northern California communities (Bay Area and Sacramento)
-
-## Role
-
-Founder and coordinator — curriculum framing, tutor coordination, and the Zoom-based delivery workflow.
 
 ## Courses
 
@@ -71,6 +71,8 @@ Course catalog pages were organized by level and topic filters (Arithmetic, Alge
 
 _Testimonials can be expanded with full quotes when available._
 
-## Homepage mockup
+## Materials
 
-[Download Kings Mathlab homepage (PDF)]({{ '/assets/pdf/Kings_Mathlab.pdf' | relative_url }})
+- [Homepage mockup (PDF)]({{ '/assets/pdf/Kings_Mathlab.pdf' | relative_url }})
+- [Courses page (PDF)]({{ '/assets/pdf/Kings_Mathlab_Courses.pdf' | relative_url }})
+- [Pricing page (PDF)]({{ '/assets/pdf/Kings_Mathlab_Pricing.pdf' | relative_url }})

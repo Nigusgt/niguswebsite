@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: Research and teaching ventures, including radar signal processing and Kings Mathlab.
+description: Research projects in tensor methods and radar signal processing.
 nav: true
 nav_order: 3
 display_categories: [work]
