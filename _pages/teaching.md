@@ -2,10 +2,12 @@
 layout: page
 permalink: /teaching/
 title: Teaching
-description: Fourteen years of college mathematics teaching across UC Irvine, California community colleges, and universities in Ethiopia.
+description: More than ten years of college and university mathematics teaching across UC Irvine, California community colleges, and universities in Ethiopia.
 nav: true
 nav_order: 6
 ---
+
+With over 10 years of teaching experience across five institutions spanning Africa and North America — including UC Irvine, California community colleges, and universities in Ethiopia.
 
 ## Teaching experience
 

@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a Ph.D. Candidate in Applied Mathematics at the University of California, Irvine, with fourteen years of college mathematics teaching experience in California community colleges and at universities in Ethiopia, and as a teaching assistant at UC Irvine since Fall 2023.
+I am a Ph.D. Candidate in Applied Mathematics at the University of California, Irvine, with over 10 years of college and university mathematics teaching experience across five institutions spanning Africa and North America — including California community colleges, universities in Ethiopia, and as a teaching assistant at UC Irvine since Fall 2023.
 
 I have taught developmental through advanced undergraduate courses — including calculus, linear algebra, differential equations, probability and statistics, number theory, and optimization — and I have advised undergraduate senior seminar projects.
 
