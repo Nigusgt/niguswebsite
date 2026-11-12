@@ -28,6 +28,8 @@ nav_order: 6
 **Fall 2019–Present**
 
 - Spring 2027: Math 3F: Differential Equations
+- Fall 2026: Math 213: Support for Statistics
+- Fall 2026: STAT 13: Introduction to Statistics
 - Summer 2026: STAT C1000: Introduction to Statistics
 - Fall 2025: STAT C1000: Introduction to Statistics
 - Summer 2023: Math 3A: Calculus I
