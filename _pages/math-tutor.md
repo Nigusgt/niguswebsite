@@ -196,8 +196,8 @@ nav_order: 4
 
 <section class="kml-section" id="kml-courses">
     <h2>COURSES</h2>
-    <p class="kml-muted" style="text-align:center;max-width:46rem;margin:0 auto 1.1rem;">
-      High school, college, community college, and university mathematics topics supported through Kings Mathlab tutoring.
+    <p class="kml-muted" style="text-align:center;max-width:44rem;margin:0 auto 1.1rem;">
+      High school, community college, and university mathematics topics supported through Kings Mathlab tutoring.
     </p>
     <h3 style="text-align:center;color:var(--kml-navy);font-size:1.05rem;">Foundations &amp; high school</h3>
     <div class="kml-course-grid" style="margin-bottom:1.25rem;">
@@ -206,6 +206,17 @@ nav_order: 4
       <div class="kml-course"><span>FOUNDATIONS</span>Geometry</div>
       <div class="kml-course"><span>FOUNDATIONS</span>Trigonometry</div>
       <div class="kml-course"><span>FOUNDATIONS</span>Statistics &amp; Probability</div>
+    </div>
+    <h3 style="text-align:center;color:var(--kml-navy);font-size:1.05rem;">Community college</h3>
+    <div class="kml-course-grid" style="margin-bottom:1.25rem;">
+      <div class="kml-course"><span>COLLEGE</span>Elementary Algebra</div>
+      <div class="kml-course"><span>COLLEGE</span>Intermediate Algebra</div>
+      <div class="kml-course"><span>COLLEGE</span>College Algebra</div>
+      <div class="kml-course"><span>COLLEGE</span>Mathematics for Liberal Arts</div>
+      <div class="kml-course"><span>COLLEGE</span>Math for Lab Science</div>
+      <div class="kml-course"><span>COLLEGE</span>Mathematical Concepts for Elementary Teachers</div>
+      <div class="kml-course"><span>COLLEGE</span>Discrete Mathematics</div>
+      <div class="kml-course"><span>COLLEGE</span>Business Mathematics</div>
     </div>
     <h3 style="text-align:center;color:var(--kml-navy);font-size:1.05rem;">Calculus &amp; differential equations</h3>
     <div class="kml-course-grid" style="margin-bottom:1.25rem;">
@@ -218,7 +229,7 @@ nav_order: 4
       <div class="kml-course"><span>CALCULUS</span>Partial Differential Equations</div>
     </div>
     <h3 style="text-align:center;color:var(--kml-navy);font-size:1.05rem;">Linear algebra, analysis &amp; beyond</h3>
-    <div class="kml-course-grid" style="margin-bottom:1.25rem;">
+    <div class="kml-course-grid">
       <div class="kml-course"><span>CORE</span>Introduction to Linear Algebra</div>
       <div class="kml-course"><span>CORE</span>Linear Algebra</div>
       <div class="kml-course"><span>CORE</span>Introduction to Abstract Mathematics</div>
@@ -231,35 +242,6 @@ nav_order: 4
       <div class="kml-course"><span>CORE</span>Number Theory</div>
       <div class="kml-course"><span>CORE</span>Mathematical Modeling</div>
       <div class="kml-course"><span>CORE</span>Finite Math</div>
-    </div>
-    <h3 style="text-align:center;color:var(--kml-navy);font-size:1.05rem;">Community college (Laney, DVC, Contra Costa)</h3>
-    <div class="kml-course-grid" style="margin-bottom:1.25rem;">
-      <div class="kml-course"><span>COMMUNITY COLLEGE</span>Elementary Algebra</div>
-      <div class="kml-course"><span>COMMUNITY COLLEGE</span>Intermediate Algebra</div>
-      <div class="kml-course"><span>COMMUNITY COLLEGE</span>College Algebra</div>
-      <div class="kml-course"><span>COMMUNITY COLLEGE</span>Introduction to Statistics</div>
-      <div class="kml-course"><span>COMMUNITY COLLEGE</span>Probability and Statistics</div>
-      <div class="kml-course"><span>COMMUNITY COLLEGE</span>Statistics Pathway / Statway</div>
-      <div class="kml-course"><span>COMMUNITY COLLEGE</span>Mathematics for Liberal Arts</div>
-      <div class="kml-course"><span>COMMUNITY COLLEGE</span>Finite Mathematics</div>
-      <div class="kml-course"><span>COMMUNITY COLLEGE</span>Math for Lab Science</div>
-      <div class="kml-course"><span>COMMUNITY COLLEGE</span>Mathematics for Elementary Teachers</div>
-      <div class="kml-course"><span>COMMUNITY COLLEGE</span>Business Calculus / Applied Calculus</div>
-      <div class="kml-course"><span>COMMUNITY COLLEGE</span>Calculus for Life and Social Sciences</div>
-      <div class="kml-course"><span>COMMUNITY COLLEGE</span>Discrete Mathematics</div>
-    </div>
-    <h3 style="text-align:center;color:var(--kml-navy);font-size:1.05rem;">Graduate-level courses</h3>
-    <div class="kml-course-grid">
-      <div class="kml-course"><span>GRADUATE</span>General Topology</div>
-      <div class="kml-course"><span>GRADUATE</span>Real Analysis</div>
-      <div class="kml-course"><span>GRADUATE</span>Complex Analysis</div>
-      <div class="kml-course"><span>GRADUATE</span>Functional Analysis</div>
-      <div class="kml-course"><span>GRADUATE</span>Graduate Algebra</div>
-      <div class="kml-course"><span>GRADUATE</span>Mathematical Modeling</div>
-      <div class="kml-course"><span>GRADUATE</span>Partial Differential Equations</div>
-      <div class="kml-course"><span>GRADUATE</span>Analytic Number Theory</div>
-      <div class="kml-course"><span>GRADUATE</span>Mathematical Optimization</div>
-      <div class="kml-course"><span>GRADUATE</span>Numerical Linear Algebra</div>
     </div>
   </section>
 
