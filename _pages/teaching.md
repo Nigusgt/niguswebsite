@@ -49,18 +49,22 @@ nav_order: 6
 - Fall 2019: Math 213: Support for Statistics
 
 ### Adjunct Instructor of Mathematics — Contra Costa College, San Pablo, CA
-**July 2021–Present**
+**Fall 2021–Summer 2024**
 
-- Introduction to Probability and Statistics
-- Intermediate Algebra
+- Summer 2024: Intermediate Algebra
+- Summer 2023: Intermediate Algebra
+- Summer 2022: Elementary Algebra
+- Spring 2022: Intermediate Algebra
+- Fall 2021: Introduction to Probability and Statistics
 
 ### Adjunct Instructor of Mathematics — Diablo Valley College, Pleasant Hill, CA
-**September 2019–Summer 2022**
+**Fall 2019–Summer 2022**
 
-- College Algebra
-- Statway I
-- Calculus I
-- Calculus II
+- Summer 2022: Analytic Geometry and Calculus I
+- Spring 2022: Calculus for Management, Life Science, and Social Science
+- Fall 2020: College Algebra
+- Fall 2020: Support for College Algebra (Math 135)
+- Fall 2019: Statway I
 
 ### Lecturer of Mathematics — Mekelle University, Mekelle, Ethiopia
 **September 2013–August 2015**
