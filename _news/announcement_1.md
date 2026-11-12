@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Ph.D. Candidate in Mathematics at UC Irvine with fourteen years of college teaching experience.
+Ph.D. Candidate in Applied Mathematics at UC Irvine with fourteen years of college teaching experience.

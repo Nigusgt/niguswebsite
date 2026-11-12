@@ -1,11 +1,11 @@
 cv:
   name: Nigus Teklehaymanot
-  label: Ph.D. Candidate in Mathematics
+  label: Ph.D. Candidate in Applied Mathematics
   email: nigusgtekle@gmail.com
   location: Irvine, CA
   image: ""
   summary: >
-    Ph.D. Candidate in Mathematics at UC Irvine with fourteen years of college mathematics
+    Ph.D. Candidate in Applied Mathematics at UC Irvine with fourteen years of college mathematics
     teaching experience in California community colleges and at universities in Ethiopia,
     and as a teaching assistant at UC Irvine since Fall 2023.
 
@@ -26,7 +26,7 @@ cv:
     Education:
       - institution: University of California, Irvine
         location: Irvine, CA
-        area: Mathematics
+        area: Applied Mathematics
         studyType: Ph.D. Candidate
         end_date: Present
         highlights:
