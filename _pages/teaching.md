@@ -25,13 +25,8 @@ nav_order: 6
 - [Math 121B: Linear Algebra II](https://catalogue.uci.edu/allcourses/math/)
 
 ### Adjunct Instructor of Mathematics — Laney College, Oakland, CA
-**Fall 2019–Present**
+**Fall 2019–Summer 2023**
 
-- Spring 2027: Math 3F: Differential Equations
-- Fall 2026: Math 213: Support for Statistics
-- Fall 2026: STAT 13: Introduction to Statistics
-- Summer 2026: STAT C1000: Introduction to Statistics
-- Fall 2025: STAT C1000: Introduction to Statistics
 - Summer 2023: Math 3A: Calculus I
 - Summer 2022: Math 16A: Calculus for Business and Social Sciences
 - Spring 2022: Math 13: Introduction to Statistics
