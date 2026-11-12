@@ -306,7 +306,7 @@ nav_order: 4
         <p>The Zoom breakout rooms made it easy to get focused help when I needed it most.</p>
       </div>
       <div class="kml-quote">
-        <div class="who">Student</div>
+        <div class="who">Romi</div>
         <p>Clear explanations and patient tutors — exactly what I needed for college math.</p>
       </div>
     </div>
