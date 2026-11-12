@@ -22,6 +22,61 @@ For each topic you can add:
 - **Textbook** — recommended book (with link if available)  
 - **Videos** — YouTube playlists or lectures  
 
+### Single-Variable Calculus I
+
+- **Notes:** _coming soon_
+- **Textbook:** _coming soon_
+- **Videos:** _coming soon_
+
+### Single-Variable Calculus II
+
+- **Notes:** _coming soon_
+- **Textbook:** _coming soon_
+- **Videos:** _coming soon_
+
+### Multivariable Calculus
+
+- **Notes:** _coming soon_
+- **Textbook:** _coming soon_
+- **Videos:** _coming soon_
+
+### Introduction to Linear Algebra
+
+- **Notes:** _coming soon_
+- **Textbook:** _coming soon_
+- **Videos:** _coming soon_
+
+### Elementary Differential Equations
+
+- **Notes:** _coming soon_
+- **Textbook:** _coming soon_
+- **Videos:** _coming soon_
+
+### Introduction to Abstract Mathematics
+
+- **Notes:** _coming soon_
+- **Textbook:** _coming soon_
+- **Videos:** _coming soon_
+
+### Linear Algebra
+
+- **Notes:** _coming soon_
+- **Textbook:** _coming soon_
+- **Videos:** _coming soon_
+
+### Elementary Analysis / Real Analysis
+
+- **Notes:** _coming soon_
+- **Textbook:** _coming soon_
+- **Videos:** _coming soon_
+
+
+### Elementary Algebra
+
+- **Notes:** _coming soon_
+- **Textbook:** _coming soon_
+- **Videos:** _coming soon_
+
 ### Intermediate Algebra
 
 - **Notes:** _coming soon_
@@ -34,55 +89,19 @@ For each topic you can add:
 - **Textbook:** _coming soon_
 - **Videos:** _coming soon_
 
-### Pre-Calculus
-
-- **Notes:** _coming soon_
-- **Textbook:** _coming soon_
-- **Videos:** _coming soon_
-
 ### Introduction to Statistics
 
 - **Notes:** _coming soon_
 - **Textbook:** _coming soon_
 - **Videos:** _coming soon_
 
-### Calculus I
-
-- **Notes:** _coming soon_
-- **Textbook:** _coming soon_
-- **Videos:** _coming soon_
-
-### Calculus II
-
-- **Notes:** _coming soon_
-- **Textbook:** _coming soon_
-- **Videos:** _coming soon_
-
-### Linear Algebra
-
-- **Notes:** _coming soon_
-- **Textbook:** _coming soon_
-- **Videos:** _coming soon_
-
-### Differential Equations
+### Discrete Mathematics
 
 - **Notes:** _coming soon_
 - **Textbook:** _coming soon_
 - **Videos:** _coming soon_
 
 ### General Topology
-
-- **Notes:** _coming soon_
-- **Textbook:** _coming soon_
-- **Videos:** _coming soon_
-
-### Real Analysis
-
-- **Notes:** _coming soon_
-- **Textbook:** _coming soon_
-- **Videos:** _coming soon_
-
-### Complex Analysis
 
 - **Notes:** _coming soon_
 - **Textbook:** _coming soon_
@@ -95,18 +114,6 @@ For each topic you can add:
 - **Videos:** _coming soon_
 
 ### Graduate Algebra
-
-- **Notes:** _coming soon_
-- **Textbook:** _coming soon_
-- **Videos:** _coming soon_
-
-### Mathematical Modeling
-
-- **Notes:** _coming soon_
-- **Textbook:** _coming soon_
-- **Videos:** _coming soon_
-
-### Partial Differential Equations
 
 - **Notes:** _coming soon_
 - **Textbook:** _coming soon_
@@ -134,7 +141,7 @@ For each topic you can add:
 
 For any topic, share:
 
-1. Topic name (e.g. Calculus I)  
+1. Topic name (e.g. Single-Variable Calculus I)  
 2. Type: notes / textbook / video  
 3. Title + link (or upload a PDF for notes)
 
