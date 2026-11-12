@@ -60,3 +60,4 @@ nav_order: 6
 - Differential Equations
 
 Formal adviser to undergraduate students on senior seminar projects.
+
