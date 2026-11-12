@@ -1,6 +1,6 @@
 ---
 layout: page
-title: projects
+title: Projects
 permalink: /projects/
 description: Research projects in tensor methods and radar signal processing.
 nav: true
