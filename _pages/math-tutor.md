@@ -54,7 +54,7 @@ Course catalog pages were organized by level and topic filters (Arithmetic, Alge
 - Analytic Geometry
 - Finite Math
 
-[Download Courses page (PDF)]({{ '/assets/pdf/Kings_Mathlab_Courses.pdf' | relative_url }})
+[Download Courses (Word)]({{ '/assets/docx/Kings_Mathlab_Courses.docx' | relative_url }}) · [PDF]({{ '/assets/pdf/Kings_Mathlab_Courses.pdf' | relative_url }})
 
 ## Pricing (2021 plans)
 
@@ -64,7 +64,7 @@ Course catalog pages were organized by level and topic filters (Arithmetic, Alge
 | Monthly | $249.99 / month | 16 classes, 20 topics, 2 one-on-one sessions, 24/7 support |
 | Semester | $999.99 / semester | 150 classes, 120 topics, 10 one-on-one sessions, 24/7 support |
 
-[Download Pricing page (PDF)]({{ '/assets/pdf/Kings_Mathlab_Pricing.pdf' | relative_url }})
+[Download Pricing (Word)]({{ '/assets/docx/Kings_Mathlab_Pricing.docx' | relative_url }}) · [PDF]({{ '/assets/pdf/Kings_Mathlab_Pricing.pdf' | relative_url }})
 
 ## What our customers are saying
 
@@ -76,6 +76,6 @@ _Testimonials can be expanded with full quotes when available._
 
 ## Materials
 
-- [Homepage mockup (PDF)]({{ '/assets/pdf/Kings_Mathlab.pdf' | relative_url }})
-- [Courses page (PDF)]({{ '/assets/pdf/Kings_Mathlab_Courses.pdf' | relative_url }})
-- [Pricing page (PDF)]({{ '/assets/pdf/Kings_Mathlab_Pricing.pdf' | relative_url }})
+- Homepage: [Word]({{ '/assets/docx/Kings_Mathlab_Homepage.docx' | relative_url }}) · [PDF]({{ '/assets/pdf/Kings_Mathlab.pdf' | relative_url }})
+- Courses: [Word]({{ '/assets/docx/Kings_Mathlab_Courses.docx' | relative_url }}) · [PDF]({{ '/assets/pdf/Kings_Mathlab_Courses.pdf' | relative_url }})
+- Pricing: [Word]({{ '/assets/docx/Kings_Mathlab_Pricing.docx' | relative_url }}) · [PDF]({{ '/assets/pdf/Kings_Mathlab_Pricing.pdf' | relative_url }})
