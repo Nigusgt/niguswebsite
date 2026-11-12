@@ -213,10 +213,11 @@ nav_order: 4
       <div class="kml-course"><span>COLLEGE</span>Intermediate Algebra</div>
       <div class="kml-course"><span>COLLEGE</span>College Algebra</div>
       <div class="kml-course"><span>COLLEGE</span>Mathematics for Liberal Arts</div>
-      <div class="kml-course"><span>COLLEGE</span>Math for Lab Science</div>
       <div class="kml-course"><span>COLLEGE</span>Mathematical Concepts for Elementary Teachers</div>
+      <div class="kml-course"><span>COLLEGE</span>Finite Mathematics</div>
       <div class="kml-course"><span>COLLEGE</span>Discrete Mathematics</div>
-      <div class="kml-course"><span>COLLEGE</span>Business Mathematics</div>
+      <div class="kml-course"><span>COLLEGE</span>Technical Mathematics</div>
+      <div class="kml-course"><span>COLLEGE</span>Foundations in Data Science</div>
     </div>
     <h3 style="text-align:center;color:var(--kml-navy);font-size:1.05rem;">Calculus &amp; differential equations</h3>
     <div class="kml-course-grid" style="margin-bottom:1.25rem;">
@@ -241,7 +242,6 @@ nav_order: 4
       <div class="kml-course"><span>CORE</span>Optimization</div>
       <div class="kml-course"><span>CORE</span>Number Theory</div>
       <div class="kml-course"><span>CORE</span>Mathematical Modeling</div>
-      <div class="kml-course"><span>CORE</span>Finite Math</div>
     </div>
   </section>
 
