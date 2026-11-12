@@ -28,7 +28,6 @@ nav_order: 6
 **Fall 2019–Summer 2023**
 
 - Summer 2023: Math 3A: Calculus I
-- Summer 2022: Math 16A: Calculus for Business and Social Sciences
 - Spring 2022: Math 13: Introduction to Statistics
 - Fall 2021: Math 3A: Calculus I
 - Fall 2021: Math 13: Introduction to Statistics
@@ -39,7 +38,6 @@ nav_order: 6
 - Summer 2020: Math 1: Pre-Calculus
 - Spring 2020: Math 203: Intermediate Algebra
 - Spring 2020: Math 208: Mathematics for Lab Sciences
-- Spring 2020: Math 13: Introduction to Statistics
 - Fall 2019: Math 13: Introduction to Statistics
 - Fall 2019: Math 213: Support for Statistics
 
