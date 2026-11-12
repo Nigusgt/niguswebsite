@@ -9,7 +9,9 @@ nav_order: 4
 
 # Kings Mathlab
 
-**Kings Mathlab** is an online Math tutoring center for high school, college, and university students — a virtual learning center where students learn from talented tutors, inspiring peers, and role-model instructors. I founded and coordinated it around 2021. Sessions ran over Zoom, with a main Math Lab host room and breakout rooms for tutoring on a virtual whiteboard.
+**Kings Mathlab** is an online Math tutoring center for high school, college, and university students — a virtual learning center where students learn from talented tutors, inspiring peers, and role-model instructors. I founded and coordinated it around 2021. Sessions run over Zoom, with a main Math Lab host room and breakout rooms for tutoring on a virtual whiteboard.
+
+**Join our live, interactive Math Lab:** [Open Zoom meeting](https://cccconfer.zoom.us/j/5971502196)
 
 ![Kings Mathlab homepage]({{ '/assets/img/projects/kings-mathlab.jpg' | relative_url }}){: width="100%" }
 
@@ -27,7 +29,8 @@ We strive to improve the overall return on investment in education by helping st
 
 ## How it works
 
-- Students join a shared Zoom Math Lab, then move into breakout rooms with a tutor
+- Students join the live Math Lab via Zoom: [https://cccconfer.zoom.us/j/5971502196](https://cccconfer.zoom.us/j/5971502196)
+- The host places students into breakout rooms to work with a tutor on a virtual whiteboard
 - Offerings span school-level, college-level, and advanced mathematics
 - Focused on Northern California communities (Bay Area and Sacramento)
 
