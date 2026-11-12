@@ -87,15 +87,8 @@ cv:
         end_date: 2015-08
         highlights:
           - Number Theory, Linear Algebra, Calculus III, Optimization Theory
-          - Formal adviser for undergraduate senior seminar projects
-
-      - company: Samara University
-        position: Assistant Lecturer of Mathematics
-        location: Samara, Ethiopia
-        start_date: 2008-09
-        end_date: 2013-08
-        highlights:
           - Calculus I, Calculus II, Solid Geometry, Differential Equations
+          - Formal adviser for undergraduate senior seminar projects
 
     Awards:
       - title: Norwegian Quota Scholarship Scheme

@@ -32,12 +32,7 @@ College Algebra, Statway I, Calculus I, and Calculus II.
 ### Lecturer of Mathematics — Mekelle University, Mekelle, Ethiopia
 **September 2013–August 2015**
 
-Number Theory, Linear Algebra, Calculus III, and Optimization Theory. Formal adviser to undergraduate students on senior seminar projects.
-
-### Assistant Lecturer of Mathematics — Samara University, Samara, Ethiopia
-**September 2008–August 2013**
-
-Calculus I, Calculus II, Solid Geometry, and Differential Equations.
+Number Theory, Linear Algebra, Calculus III, Optimization Theory, Calculus I, Calculus II, Solid Geometry, and Differential Equations. Formal adviser to undergraduate students on senior seminar projects.
 
 ## Courses taught
 
