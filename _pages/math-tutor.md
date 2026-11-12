@@ -257,7 +257,7 @@ nav_order: 4
     <div class="kml-price-grid">
       <div class="kml-price">
         <div class="tag">ON DEMAND</div>
-        <div class="amount">$19.99/SESSION</div>
+        <div class="amount">$???.??/SESSION</div>
         <ul>
           <li>1HR Per Class</li>
           <li>1 Class</li>
@@ -269,7 +269,7 @@ nav_order: 4
       </div>
       <div class="kml-price featured">
         <div class="tag">MONTHLY</div>
-        <div class="amount">$249.99/MON</div>
+        <div class="amount">$???.??/MON</div>
         <ul>
           <li>1HR Per Class</li>
           <li>16 Total Classes</li>
