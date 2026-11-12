@@ -22,37 +22,37 @@ For each topic you can add:
 - **Textbook** — recommended book (with link if available)  
 - **Videos** — YouTube playlists or lectures  
 
-### Single-Variable Calculus I
+### Intermediate Algebra
 
 - **Notes:** _coming soon_
 - **Textbook:** _coming soon_
 - **Videos:** _coming soon_
 
-### Single-Variable Calculus II
+### College Algebra
 
 - **Notes:** _coming soon_
 - **Textbook:** _coming soon_
 - **Videos:** _coming soon_
 
-### Multivariable Calculus
+### Pre-Calculus
 
 - **Notes:** _coming soon_
 - **Textbook:** _coming soon_
 - **Videos:** _coming soon_
 
-### Introduction to Linear Algebra
+### Introduction to Statistics
 
 - **Notes:** _coming soon_
 - **Textbook:** _coming soon_
 - **Videos:** _coming soon_
 
-### Elementary Differential Equations
+### Calculus I
 
 - **Notes:** _coming soon_
 - **Textbook:** _coming soon_
 - **Videos:** _coming soon_
 
-### Introduction to Abstract Mathematics
+### Calculus II
 
 - **Notes:** _coming soon_
 - **Textbook:** _coming soon_
@@ -64,7 +64,7 @@ For each topic you can add:
 - **Textbook:** _coming soon_
 - **Videos:** _coming soon_
 
-### Elementary Analysis / Real Analysis
+### Differential Equations
 
 - **Notes:** _coming soon_
 - **Textbook:** _coming soon_
@@ -74,7 +74,7 @@ For each topic you can add:
 
 For any topic, share:
 
-1. Topic name (e.g. Single-Variable Calculus I)  
+1. Topic name (e.g. Calculus I)  
 2. Type: notes / textbook / video  
 3. Title + link (or upload a PDF for notes)
 

@@ -196,41 +196,50 @@ nav_order: 4
 
 <section class="kml-section" id="kml-courses">
     <h2>COURSES</h2>
-    <p class="kml-muted" style="text-align:center;max-width:44rem;margin:0 auto 1.1rem;">
-      High school, college, and university mathematics topics supported through Kings Mathlab tutoring.
+    <p class="kml-muted" style="text-align:center;max-width:46rem;margin:0 auto 1.1rem;">
+      Community college mathematics courses commonly taught at colleges such as Laney College, Diablo Valley College, and Contra Costa College — plus selected advanced topics.
     </p>
-    <h3 style="text-align:center;color:var(--kml-navy);font-size:1.05rem;">Foundations &amp; high school</h3>
+    <h3 style="text-align:center;color:var(--kml-navy);font-size:1.05rem;">Algebra, geometry &amp; preparation</h3>
     <div class="kml-course-grid" style="margin-bottom:1.25rem;">
-      <div class="kml-course"><span>FOUNDATIONS</span>Pre-Calculus</div>
-      <div class="kml-course"><span>FOUNDATIONS</span>Algebra &amp; Linear Equations</div>
-      <div class="kml-course"><span>FOUNDATIONS</span>Geometry</div>
-      <div class="kml-course"><span>FOUNDATIONS</span>Trigonometry</div>
-      <div class="kml-course"><span>FOUNDATIONS</span>Statistics &amp; Probability</div>
+      <div class="kml-course"><span>PREPARATION</span>Elementary Algebra</div>
+      <div class="kml-course"><span>PREPARATION</span>Intermediate Algebra</div>
+      <div class="kml-course"><span>PREPARATION</span>College Algebra</div>
+      <div class="kml-course"><span>PREPARATION</span>Geometry</div>
+      <div class="kml-course"><span>PREPARATION</span>Trigonometry</div>
+      <div class="kml-course"><span>PREPARATION</span>Pre-Calculus</div>
     </div>
-    <h3 style="text-align:center;color:var(--kml-navy);font-size:1.05rem;">Calculus &amp; differential equations</h3>
+    <h3 style="text-align:center;color:var(--kml-navy);font-size:1.05rem;">Statistics, liberal arts &amp; applied math</h3>
     <div class="kml-course-grid" style="margin-bottom:1.25rem;">
-      <div class="kml-course"><span>CALCULUS</span>Single-Variable Calculus I</div>
-      <div class="kml-course"><span>CALCULUS</span>Single-Variable Calculus II</div>
-      <div class="kml-course"><span>CALCULUS</span>Multivariable Calculus</div>
-      <div class="kml-course"><span>CALCULUS</span>Calculus for Life Sciences</div>
-      <div class="kml-course"><span>CALCULUS</span>Calculus for Business</div>
-      <div class="kml-course"><span>CALCULUS</span>Elementary Differential Equations</div>
-      <div class="kml-course"><span>CALCULUS</span>Partial Differential Equations</div>
+      <div class="kml-course"><span>APPLIED</span>Introduction to Statistics</div>
+      <div class="kml-course"><span>APPLIED</span>Probability and Statistics</div>
+      <div class="kml-course"><span>APPLIED</span>Statistics Pathway / Statway</div>
+      <div class="kml-course"><span>APPLIED</span>Mathematics for Liberal Arts</div>
+      <div class="kml-course"><span>APPLIED</span>Finite Mathematics</div>
+      <div class="kml-course"><span>APPLIED</span>Math for Lab Science</div>
+      <div class="kml-course"><span>APPLIED</span>Mathematics for Elementary Teachers</div>
     </div>
-    <h3 style="text-align:center;color:var(--kml-navy);font-size:1.05rem;">Linear algebra, analysis &amp; beyond</h3>
+    <h3 style="text-align:center;color:var(--kml-navy);font-size:1.05rem;">Calculus &amp; STEM transfer</h3>
+    <div class="kml-course-grid" style="margin-bottom:1.25rem;">
+      <div class="kml-course"><span>CALCULUS</span>Calculus I</div>
+      <div class="kml-course"><span>CALCULUS</span>Calculus II</div>
+      <div class="kml-course"><span>CALCULUS</span>Calculus III / Multivariable Calculus</div>
+      <div class="kml-course"><span>CALCULUS</span>Business Calculus / Applied Calculus</div>
+      <div class="kml-course"><span>CALCULUS</span>Calculus for Life and Social Sciences</div>
+      <div class="kml-course"><span>CALCULUS</span>Linear Algebra</div>
+      <div class="kml-course"><span>CALCULUS</span>Differential Equations</div>
+      <div class="kml-course"><span>CALCULUS</span>Discrete Mathematics</div>
+    </div>
+    <h3 style="text-align:center;color:var(--kml-navy);font-size:1.05rem;">Additional advanced topics</h3>
     <div class="kml-course-grid">
-      <div class="kml-course"><span>CORE</span>Introduction to Linear Algebra</div>
-      <div class="kml-course"><span>CORE</span>Linear Algebra</div>
-      <div class="kml-course"><span>CORE</span>Introduction to Abstract Mathematics</div>
-      <div class="kml-course"><span>CORE</span>Abstract Algebra</div>
-      <div class="kml-course"><span>CORE</span>Elementary Analysis / Real Analysis</div>
-      <div class="kml-course"><span>CORE</span>Complex Analysis</div>
-      <div class="kml-course"><span>CORE</span>Probability</div>
-      <div class="kml-course"><span>CORE</span>Numerical Analysis</div>
-      <div class="kml-course"><span>CORE</span>Optimization</div>
-      <div class="kml-course"><span>CORE</span>Number Theory</div>
-      <div class="kml-course"><span>CORE</span>Mathematical Modeling</div>
-      <div class="kml-course"><span>CORE</span>Finite Math</div>
+      <div class="kml-course"><span>ADVANCED</span>Introduction to Abstract Mathematics</div>
+      <div class="kml-course"><span>ADVANCED</span>Abstract Algebra</div>
+      <div class="kml-course"><span>ADVANCED</span>Elementary Analysis / Real Analysis</div>
+      <div class="kml-course"><span>ADVANCED</span>Complex Analysis</div>
+      <div class="kml-course"><span>ADVANCED</span>Probability</div>
+      <div class="kml-course"><span>ADVANCED</span>Numerical Analysis</div>
+      <div class="kml-course"><span>ADVANCED</span>Optimization</div>
+      <div class="kml-course"><span>ADVANCED</span>Number Theory</div>
+      <div class="kml-course"><span>ADVANCED</span>Partial Differential Equations</div>
     </div>
   </section>
 
