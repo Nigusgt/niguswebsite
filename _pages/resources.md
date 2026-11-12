@@ -13,7 +13,6 @@ Send me notes, textbook titles, or YouTube links and I’ll add them under the m
 ## Tutoring
 
 - [Math Tutor (Kings Mathlab)]({{ '/math-tutor/' | relative_url }})
-- Join live Zoom: [https://cccconfer.zoom.us/j/5971502196](https://cccconfer.zoom.us/j/5971502196)
 
 ## Selected course resources
 
