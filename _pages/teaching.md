@@ -25,13 +25,26 @@ nav_order: 6
 - [Math 121B: Linear Algebra II](https://catalogue.uci.edu/allcourses/math/)
 
 ### Adjunct Instructor of Mathematics — Laney College, Oakland, CA
-**July 2019–Present**
+**Fall 2019–Present**
 
-- Pre-Calculus
-- Calculus I
-- Introduction to Statistics
-- Intermediate Algebra
-- Math for Lab Science
+- Spring 2027: Math 3F: Differential Equations
+- Summer 2026: STAT C1000: Introduction to Statistics
+- Fall 2025: STAT C1000: Introduction to Statistics
+- Summer 2023: Math 3A: Calculus I
+- Summer 2022: Math 16A: Calculus for Business and Social Sciences
+- Spring 2022: Math 13: Introduction to Statistics
+- Fall 2021: Math 3A: Calculus I
+- Fall 2021: Math 13: Introduction to Statistics
+- Summer 2021: Math 1: Pre-Calculus
+- Summer 2021: Math 215: Support for Pre-Calculus
+- Fall 2020: Math 15: Mathematics for Liberal Arts Students
+- Fall 2020: Math 203: Intermediate Algebra
+- Summer 2020: Math 1: Pre-Calculus
+- Spring 2020: Math 203: Intermediate Algebra
+- Spring 2020: Math 208: Mathematics for Lab Sciences
+- Spring 2020: Math 13: Introduction to Statistics
+- Fall 2019: Math 13: Introduction to Statistics
+- Fall 2019: Math 213: Support for Statistics
 
 ### Adjunct Instructor of Mathematics — Contra Costa College, San Pablo, CA
 **July 2021–Present**
