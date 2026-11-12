@@ -203,7 +203,6 @@ nav_order: 4
     <div class="kml-course-grid" style="margin-bottom:1.25rem;">
       <div class="kml-course"><span>FOUNDATIONS</span>Pre-Calculus</div>
       <div class="kml-course"><span>FOUNDATIONS</span>Algebra &amp; Linear Equations</div>
-      <div class="kml-course"><span>FOUNDATIONS</span>Functions &amp; Modeling</div>
       <div class="kml-course"><span>FOUNDATIONS</span>Geometry</div>
       <div class="kml-course"><span>FOUNDATIONS</span>Trigonometry</div>
       <div class="kml-course"><span>FOUNDATIONS</span>Statistics &amp; Probability</div>
