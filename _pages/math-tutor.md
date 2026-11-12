@@ -197,7 +197,7 @@ nav_order: 4
 <section class="kml-section" id="kml-courses">
     <h2>COURSES</h2>
     <p class="kml-muted" style="text-align:center;max-width:46rem;margin:0 auto 1.1rem;">
-      Community college mathematics courses commonly taught at colleges such as Laney College, Diablo Valley College, and Contra Costa College — plus selected advanced topics.
+      Community college mathematics courses commonly taught at colleges such as Laney College, Diablo Valley College, and Contra Costa College — plus graduate-level topics.
     </p>
     <h3 style="text-align:center;color:var(--kml-navy);font-size:1.05rem;">Algebra, geometry &amp; preparation</h3>
     <div class="kml-course-grid" style="margin-bottom:1.25rem;">
@@ -229,17 +229,18 @@ nav_order: 4
       <div class="kml-course"><span>CALCULUS</span>Differential Equations</div>
       <div class="kml-course"><span>CALCULUS</span>Discrete Mathematics</div>
     </div>
-    <h3 style="text-align:center;color:var(--kml-navy);font-size:1.05rem;">Additional advanced topics</h3>
+    <h3 style="text-align:center;color:var(--kml-navy);font-size:1.05rem;">Graduate-level courses</h3>
     <div class="kml-course-grid">
-      <div class="kml-course"><span>ADVANCED</span>Introduction to Abstract Mathematics</div>
-      <div class="kml-course"><span>ADVANCED</span>Abstract Algebra</div>
-      <div class="kml-course"><span>ADVANCED</span>Elementary Analysis / Real Analysis</div>
-      <div class="kml-course"><span>ADVANCED</span>Complex Analysis</div>
-      <div class="kml-course"><span>ADVANCED</span>Probability</div>
-      <div class="kml-course"><span>ADVANCED</span>Numerical Analysis</div>
-      <div class="kml-course"><span>ADVANCED</span>Optimization</div>
-      <div class="kml-course"><span>ADVANCED</span>Number Theory</div>
-      <div class="kml-course"><span>ADVANCED</span>Partial Differential Equations</div>
+      <div class="kml-course"><span>GRADUATE</span>General Topology</div>
+      <div class="kml-course"><span>GRADUATE</span>Real Analysis</div>
+      <div class="kml-course"><span>GRADUATE</span>Complex Analysis</div>
+      <div class="kml-course"><span>GRADUATE</span>Functional Analysis</div>
+      <div class="kml-course"><span>GRADUATE</span>Graduate Algebra</div>
+      <div class="kml-course"><span>GRADUATE</span>Mathematical Modeling</div>
+      <div class="kml-course"><span>GRADUATE</span>Partial Differential Equations</div>
+      <div class="kml-course"><span>GRADUATE</span>Analytic Number Theory</div>
+      <div class="kml-course"><span>GRADUATE</span>Mathematical Optimization</div>
+      <div class="kml-course"><span>GRADUATE</span>Numerical Linear Algebra</div>
     </div>
   </section>
 
