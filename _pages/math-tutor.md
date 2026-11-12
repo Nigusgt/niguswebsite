@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /online-tutoring/
-title: online tutoring
+permalink: /math-tutor/
+title: Math Tutor
 description: Kings Mathlab — online math tuition and homework help (founder & coordinator).
 nav: true
 nav_order: 4
