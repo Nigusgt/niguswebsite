@@ -12,30 +12,51 @@ nav_order: 6
 ### Teaching Assistant — University of California, Irvine
 **Fall 2023–Present**
 
-Teaching assistant for Calculus I, Calculus II, Multivariable Calculus I, Multivariable Calculus II, Introduction to Linear Algebra, Elementary Differential Equations, Numerical Analysis I, Numerical Analysis II, Introduction to Partial Differential Equations, Linear Algebra I, and Linear Algebra II.
+- [Math 2A: Calculus I](https://catalogue.uci.edu/allcourses/math/)
+- [Math 2B: Calculus II](https://catalogue.uci.edu/allcourses/math/)
+- [Math 2D: Multivariable Calculus I](https://catalogue.uci.edu/allcourses/math/)
+- [Math 2E: Multivariable Calculus II](https://catalogue.uci.edu/allcourses/math/)
+- [Math 3A: Introduction to Linear Algebra](https://catalogue.uci.edu/allcourses/math/)
+- [Math 3D: Elementary Differential Equations](https://catalogue.uci.edu/allcourses/math/)
+- [Math 105A: Numerical Analysis I](https://catalogue.uci.edu/allcourses/math/)
+- [Math 105B: Numerical Analysis II](https://catalogue.uci.edu/allcourses/math/)
+- [Math 112B: Introduction to Partial Differential Equations](https://catalogue.uci.edu/allcourses/math/)
+- [Math 121A: Linear Algebra I](https://catalogue.uci.edu/allcourses/math/)
+- [Math 121B: Linear Algebra II](https://catalogue.uci.edu/allcourses/math/)
 
 ### Adjunct Instructor of Mathematics — Laney College, Oakland, CA
 **July 2019–Present**
 
-Pre-Calculus, Calculus I, Introduction to Statistics, Intermediate Algebra, and Math for Lab Science.
+- Pre-Calculus
+- Calculus I
+- Introduction to Statistics
+- Intermediate Algebra
+- Math for Lab Science
 
 ### Adjunct Instructor of Mathematics — Contra Costa College, San Pablo, CA
 **July 2021–Present**
 
-Introduction to Probability and Statistics and Intermediate Algebra.
+- Introduction to Probability and Statistics
+- Intermediate Algebra
 
 ### Adjunct Instructor of Mathematics — Diablo Valley College, Pleasant Hill, CA
 **September 2019–Summer 2022**
 
-College Algebra, Statway I, Calculus I, and Calculus II.
+- College Algebra
+- Statway I
+- Calculus I
+- Calculus II
 
 ### Lecturer of Mathematics — Mekelle University, Mekelle, Ethiopia
 **September 2013–August 2015**
 
-Number Theory, Linear Algebra, Calculus III, Optimization Theory, Calculus I, Calculus II, Solid Geometry, and Differential Equations. Formal adviser to undergraduate students on senior seminar projects.
+- Number Theory
+- Linear Algebra
+- Calculus III
+- Optimization Theory
+- Calculus I
+- Calculus II
+- Solid Geometry
+- Differential Equations
 
-## Courses taught
-
-**Lower-division and supporting courses:** Intermediate Algebra; College Algebra; Pre-Calculus; Calculus I; Calculus II; Multivariable Calculus; Introduction to Probability and Statistics; Introduction to Statistics; Statway I; Math for Lab Science.
-
-**Additional undergraduate courses:** Calculus III; Linear Algebra; Differential Equations; Partial Differential Equations; Numerical Analysis; Number Theory; Optimization Theory; Solid Geometry.
+Formal adviser to undergraduate students on senior seminar projects.
