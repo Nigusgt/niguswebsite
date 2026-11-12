@@ -2,12 +2,12 @@
 layout: page
 permalink: /teaching/
 title: Teaching
-description: More than ten years of college and university mathematics teaching across UC Irvine, California community colleges, and universities in Ethiopia.
+description: More than ten years of college and university mathematics teaching, with academic training spanning Africa, Europe, and North America.
 nav: true
 nav_order: 6
 ---
 
-With over 10 years of teaching experience across five institutions spanning Africa and North America — including UC Irvine, California community colleges, and universities in Ethiopia.
+With over 10 years of teaching experience across five institutions in Africa and North America — including UC Irvine, California community colleges, and Mekelle University. My academic path spans three continents: undergraduate studies in Mathematics and Physics at Mekelle University (Ethiopia), an M.S. in Pure Mathematics (Analytic Number Theory) from the Norwegian University of Science and Technology (NTNU), and doctoral study at UC Irvine.
 
 ## Teaching experience
 

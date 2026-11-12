@@ -5,10 +5,11 @@ cv:
   location: Irvine, CA
   image: ""
   summary: >
-    Ph.D. Candidate in Applied Mathematics at UC Irvine with over 10 years of college and university
-    mathematics teaching experience across five institutions spanning Africa and North America —
-    including California community colleges, universities in Ethiopia, and as a teaching assistant
-    at UC Irvine since Fall 2023.
+    Ph.D. Candidate in Applied Mathematics at UC Irvine. Undergraduate studies in Mathematics and
+    Physics at Mekelle University (Ethiopia); M.S. in Pure Mathematics (Analytic Number Theory) from
+    NTNU (Norway); over 10 years of college and university teaching across five institutions in
+    Africa and North America, including California community colleges and as a TA at UC Irvine
+    since Fall 2023.
 
   social_networks:
     - network: LinkedIn
@@ -35,7 +36,7 @@ cv:
 
       - institution: Norwegian University of Science and Technology (NTNU)
         location: Trondheim, Norway
-        area: Mathematical Sciences
+        area: Pure Mathematics (Analytic Number Theory)
         studyType: Master of Science
         end_date: 2018-05
 
