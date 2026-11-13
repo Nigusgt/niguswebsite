@@ -92,7 +92,7 @@ nav_order: 4
   </div>
 
   <section class="kml-hero" id="kml-home">
-    <h1>KINGS MATHLAB IS AN ONLINE MATH TUITION AND HOMEWORK HELP CENTER</h1>
+    <h1>KINGS MATHLAB IS AN ONLINE MATH TUTORING AND HOMEWORK HELP CENTER</h1>
     <a class="sub" href="#kml-courses">DISCOVER OUR COURSES</a>
     <div>
       <a class="kml-btn" href="https://cccconfer.zoom.us/j/5971502196" target="_blank" rel="noopener">CLICK HERE TO JOIN OUR DEMO CLASS</a>
