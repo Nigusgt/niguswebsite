@@ -12,7 +12,7 @@ Send notes, textbook titles, or YouTube links and I’ll add them under the matc
 
 ## Tutoring
 
-- [Math Tutor (Kings Mathlab)]({{ '/math-tutor/' | relative_url }})
+- [Mathlab (Kings Mathlab)]({{ '/mathlab/' | relative_url }})
 
 ## Selected topic resources
 
