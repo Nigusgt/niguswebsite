@@ -2,7 +2,7 @@
 layout: page
 permalink: /mathlab/
 title: Mathlab
-description: Kings Mathlab — online math tuition and homework help center.
+description: Kings Mathlab — online math tutoring and homework help center.
 nav: true
 nav_order: 4
 ---
