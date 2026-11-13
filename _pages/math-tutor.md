@@ -8,7 +8,7 @@ nav_order: 4
 ---
 
 <style>
-  .kml { --kml-navy:#1e3a5f; --kml-blue:#2f6fb2; --kml-orange:#e67e22; --kml-green:#27ae60; --kml-purple:#8e44ad; --kml-ink:#243447; --kml-muted:#5b6b7c; --kml-bg:#f4f7fb; font-family: Georgia, "Times New Roman", serif; color: var(--kml-ink); margin: -1rem -0.5rem 2rem; }
+  .kml { --kml-navy:#1e3a5f; --kml-blue:#2f6fb2; --kml-orange:#e67e22; --kml-green:#27ae60; --kml-purple:#2f6fb2; --kml-ink:#243447; --kml-muted:#5b6b7c; --kml-bg:#f4f7fb; font-family: Georgia, "Times New Roman", serif; color: var(--kml-ink); margin: -1rem -0.5rem 2rem; }
   .kml * { box-sizing: border-box; }
   .kml a { text-decoration: none; }
   .kml-topbar { background: var(--kml-navy); color: #fff; display:flex; justify-content:space-between; align-items:center; gap:1rem; padding:0.85rem 1.25rem; border-radius:0.4rem; }
