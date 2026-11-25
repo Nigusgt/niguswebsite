@@ -27,6 +27,13 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
+<style>
+  /* Theme about layout hardcodes lowercase; show title case instead */
+  .post article > h2 a[href*="/publications/"] {
+    text-transform: capitalize;
+  }
+</style>
+
 I am a Ph.D. Candidate in Applied Mathematics at the University of California, Irvine. I completed my undergraduate studies in Mathematics and Physics at Mekelle University (Ethiopia), earned an M.S. in Pure Mathematics (Analytic Number Theory) from the Norwegian University of Science and Technology (NTNU) in Norway, and have over 10 years of college and university teaching experience across five institutions in Africa and North America — including California community colleges, Mekelle University, and as a teaching assistant at UC Irvine since Fall 2023.
 
 I have taught developmental through advanced undergraduate courses — including calculus, linear algebra, differential equations, probability and statistics, number theory, and optimization — and I have advised undergraduate senior seminar projects.
