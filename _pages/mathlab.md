@@ -8,14 +8,16 @@ nav_order: 4
 ---
 
 <style>
-  .kml { --kml-navy:#1e3a5f; --kml-blue:#2f6fb2; --kml-orange:#e67e22; --kml-green:#27ae60; --kml-ink:#243447; --kml-muted:#5b6b7c; --kml-bg:#f4f7fb; --kml-board:#1b2838; font-family: Georgia, "Times New Roman", serif; color: var(--kml-ink); margin: -1rem -0.5rem 2rem; }
+  /* Hide theme page title/description — Mathlab has its own branded header */
+  .post-header { display: none; }
+  .kml { --kml-navy:#1e3a5f; --kml-blue:#2f6fb2; --kml-orange:#e67e22; --kml-green:#27ae60; --kml-bright:#22c55e; --kml-ink:#243447; --kml-muted:#5b6b7c; --kml-bg:#f4f7fb; --kml-board:#1b2838; font-family: Georgia, "Times New Roman", serif; color: var(--kml-ink); margin: -1rem -0.5rem 2rem; }
   .kml * { box-sizing: border-box; }
   .kml a { text-decoration: none; }
-  .kml-topbar { background: var(--kml-navy); color: #fff; display:flex; justify-content:space-between; align-items:center; gap:1rem; padding:0.85rem 1.25rem; border-radius:0.4rem; }
+  .kml-topbar { background: var(--kml-bright); color: #fff; display:flex; justify-content:space-between; align-items:center; gap:1rem; padding:0.85rem 1.25rem; border-radius:0.4rem; }
   .kml-brand { display:flex; align-items:center; gap:0.55rem; font-weight:700; letter-spacing:0.04em; font-size:1.05rem; }
   .kml-mark { width:1.45rem; height:1.45rem; display:inline-block; }
   .kml-nav { display:flex; flex-wrap:wrap; gap:0.9rem; font-family: system-ui, -apple-system, sans-serif; font-size:0.78rem; letter-spacing:0.06em; }
-  .kml-nav a { color:#dce8f5; }
+  .kml-nav a { color:#ecfdf5; }
   .kml-nav a:hover { color:#fff; }
   .kml-hero { text-align:center; padding:2.4rem 1rem 1.75rem; }
   .kml-hero h1 { font-size: clamp(1.35rem, 3.2vw, 2rem); line-height:1.25; margin:0 0 0.65rem; letter-spacing:0.01em; color: var(--kml-navy); }
