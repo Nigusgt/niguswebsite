@@ -6,7 +6,7 @@ subtitle: Ph.D. Candidate in Applied Mathematics · University of California, Ir
 
 profile:
   align: right
-  image: nigus-teklehaymanot.jpg
+  image: nigus-teklehaymanot-ggb.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Irvine, CA</p>
