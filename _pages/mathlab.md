@@ -2,7 +2,7 @@
 layout: page
 permalink: /mathlab/
 title: Mathlab
-description: Kings Mathlab — online math tutoring and homework help center.
+description: Nigus Mathlab — online math tutoring and homework help center.
 nav: true
 nav_order: 4
 ---
@@ -80,7 +80,7 @@ nav_order: 4
       <svg class="kml-crown" viewBox="0 0 24 24" fill="none" aria-hidden="true">
         <path d="M3 17h18v2H3v-2zm1-2 3.5-7 4 4 4-6L20 15H4z" fill="#f5d76e"/>
       </svg>
-      KINGS MATHLAB
+      NIGUS MATHLAB
     </div>
     <nav class="kml-nav">
       <a href="#kml-home">HOME</a>
@@ -92,7 +92,7 @@ nav_order: 4
   </div>
 
   <section class="kml-hero" id="kml-home">
-    <h1>KINGS MATHLAB IS AN ONLINE MATH TUTORING CENTER</h1>
+    <h1>NIGUS MATHLAB IS AN ONLINE MATH TUTORING CENTER</h1>
     <a class="sub" href="#kml-courses">DISCOVER OUR COURSES</a>
     <div>
       <a class="kml-btn" href="https://cccconfer.zoom.us/j/5971502196" target="_blank" rel="noopener">CLICK HERE TO JOIN OUR DEMO CLASS</a>
@@ -167,11 +167,11 @@ nav_order: 4
   </section>
 
   <section class="kml-section" id="kml-why">
-    <h2>WHY CHOOSE KINGS MATHLAB?</h2>
+    <h2>WHY CHOOSE NIGUS MATHLAB?</h2>
     <div class="kml-pillars">
       <div class="kml-pillar">
         <h3>Rigor</h3>
-        <p>We aim for mastery. Kings Mathlab is a highly effective virtual tutoring center that instills deep understanding of mathematical concepts.</p>
+        <p>We aim for mastery. Nigus Mathlab is a highly effective virtual tutoring center that instills deep understanding of mathematical concepts.</p>
       </div>
       <div class="kml-pillar">
         <h3>Results</h3>
@@ -197,7 +197,7 @@ nav_order: 4
 <section class="kml-section" id="kml-courses">
     <h2>COURSES</h2>
     <p class="kml-muted" style="text-align:center;max-width:44rem;margin:0 auto 1.1rem;">
-      High school, community college, university, and graduate mathematics topics supported through Kings Mathlab tutoring.
+      High school, community college, university, and graduate mathematics topics supported through Nigus Mathlab tutoring.
     </p>
     <h3 style="text-align:center;color:var(--kml-navy);font-size:1.05rem;">Foundations &amp; high school</h3>
     <div class="kml-course-grid" style="margin-bottom:1.25rem;">
@@ -299,7 +299,7 @@ nav_order: 4
     <div class="kml-quotes">
       <div class="kml-quote">
         <div class="who">Jake</div>
-        <p>Kings Mathlab helped me stay on track with homework and feel more confident before exams.</p>
+        <p>Nigus Mathlab helped me stay on track with homework and feel more confident before exams.</p>
       </div>
       <div class="kml-quote">
         <div class="who">Surafel</div>
@@ -318,6 +318,6 @@ nav_order: 4
       &nbsp;·&nbsp;
       <a href="{{ '/cv/' | relative_url }}">ABOUT NIGUS</a>
     </div>
-    <div>Advanced mathematics courses. Copyright © Kings Mathlab.</div>
+    <div>Advanced mathematics courses. Copyright © Nigus Mathlab.</div>
   </div>
 </div>

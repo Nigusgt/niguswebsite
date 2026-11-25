@@ -12,7 +12,7 @@ Send notes, textbook titles, or YouTube links and I’ll add them under the matc
 
 ## Tutoring
 
-- [Mathlab (Kings Mathlab)]({{ '/mathlab/' | relative_url }})
+- [Mathlab (Nigus Mathlab)]({{ '/mathlab/' | relative_url }})
 
 ## Selected topic resources
 
