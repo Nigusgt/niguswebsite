@@ -220,13 +220,6 @@ nav_order: 4
           <div class="meta">Tutor or Founder/Instructor as needed</div>
         </div>
       </div>
-      <div class="kml-card">
-        <div class="head head-navy">iPad whiteboard tutoring</div>
-        <div class="body">
-          Tutors write live on an iPad in their breakout room so students see each step clearly.
-          <div class="meta">Separate rooms · Live Zoom sessions</div>
-        </div>
-      </div>
     </div>
   </section>
 
