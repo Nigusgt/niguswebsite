@@ -56,6 +56,12 @@ nav_order: 4
   .kml-course-grid { display:grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap:0.75rem; }
   .kml-course { background:#fff; border:1px solid #e6edf5; border-radius:0.45rem; padding:0.85rem 0.95rem; font-family: system-ui, -apple-system, sans-serif; font-size:0.9rem; }
   .kml-course span { display:block; color: var(--kml-blue); font-size:0.72rem; letter-spacing:0.05em; margin-bottom:0.25rem; }
+  .kml-track { max-width:52rem; margin:0 auto 0.75rem; background:#fff; border:1px solid #e6edf5; border-radius:0.55rem; padding:0.35rem 0.85rem 0.85rem; }
+  .kml-track > summary { cursor:pointer; list-style:none; font-family: system-ui, -apple-system, sans-serif; font-weight:700; color: var(--kml-navy); padding:0.75rem 0.15rem; }
+  .kml-track > summary::-webkit-details-marker { display:none; }
+  .kml-track > summary::after { content:"▸"; float:right; color: var(--kml-blue); }
+  .kml-track[open] > summary::after { content:"▾"; }
+  .kml-track .kml-course-grid { margin-top:0.35rem; }
   .kml-price-grid { display:grid; grid-template-columns: repeat(auto-fit, minmax(190px, 1fr)); gap:1rem; align-items:stretch; }
   .kml-price { background:#fff; border:1px solid #d9e4f0; border-radius:0.55rem; overflow:hidden; text-align:center; font-family: system-ui, -apple-system, sans-serif; }
   .kml-price.featured { border-color: var(--kml-blue); box-shadow: 0 10px 28px rgba(47,111,178,0.18); transform: translateY(-2px); }
@@ -156,9 +162,9 @@ nav_order: 4
       </div>
       <div class="kml-role">
         <h3>Undergraduate tutors</h3>
-        <div class="role">Three tutors · Breakout-room teaching</div>
+        <div class="role">Growing team · Breakout-room teaching</div>
         <p>
-          Three undergraduate tutors lead small-group sessions in separate Zoom breakout rooms,
+          Undergraduate tutors (up to three) lead small-group sessions in separate Zoom breakout rooms,
           writing step by step on an iPad so students can follow every line of the solution.
         </p>
       </div>
@@ -209,7 +215,7 @@ nav_order: 4
       <div class="kml-arrow">↓</div>
       <div class="kml-step step-host">
         <strong>2. Coordinator assigns a tutor</strong>
-        <p>Tell the Coordinator your course and topic. They place you with one of the three undergraduate tutors (or the Founder/Instructor for advanced help).</p>
+        <p>Tell the Coordinator your course and topic. They place you with an undergraduate tutor (or the Founder/Instructor for advanced help).</p>
         <div style="margin-top:0.75rem;">
           <a class="kml-btn kml-btn-light" href="https://cccconfer.zoom.us/j/5971502196" target="_blank" rel="noopener">Book / Join Zoom</a>
         </div>
@@ -243,7 +249,7 @@ nav_order: 4
       </div>
       <div class="kml-pillar">
         <h3>Access</h3>
-        <p>Live online support for students from high school through graduate coursework, at a clear and affordable rate.</p>
+        <p>Live online support for students from high school through graduate coursework, with clear rates on request.</p>
       </div>
     </div>
   </section>
@@ -263,57 +269,67 @@ nav_order: 4
     <p class="kml-muted" style="text-align:center;max-width:44rem;margin:0 auto 1.1rem;">
       High school, community college, university, and graduate mathematics topics supported through Nigus Mathlab tutoring.
     </p>
-    <h3 style="text-align:center;color:var(--kml-navy);font-size:1.05rem;">Foundations &amp; high school</h3>
-    <div class="kml-course-grid" style="margin-bottom:1.25rem;">
-      <div class="kml-course"><span>FOUNDATIONS</span>Pre-Calculus</div>
-      <div class="kml-course"><span>FOUNDATIONS</span>Algebra &amp; Linear Equations</div>
-      <div class="kml-course"><span>FOUNDATIONS</span>Geometry</div>
-      <div class="kml-course"><span>FOUNDATIONS</span>Trigonometry</div>
-      <div class="kml-course"><span>FOUNDATIONS</span>Statistics &amp; Probability</div>
-    </div>
-    <h3 style="text-align:center;color:var(--kml-navy);font-size:1.05rem;">Community college</h3>
-    <div class="kml-course-grid" style="margin-bottom:1.25rem;">
-      <div class="kml-course"><span>COLLEGE</span>Elementary Algebra</div>
-      <div class="kml-course"><span>COLLEGE</span>Intermediate Algebra</div>
-      <div class="kml-course"><span>COLLEGE</span>College Algebra</div>
-      <div class="kml-course"><span>COLLEGE</span>Mathematics for Liberal Arts</div>
-      <div class="kml-course"><span>COLLEGE</span>Finite Mathematics</div>
-      <div class="kml-course"><span>COLLEGE</span>Discrete Mathematics</div>
-      <div class="kml-course"><span>COLLEGE</span>Technical Mathematics</div>
-    </div>
-    <h3 style="text-align:center;color:var(--kml-navy);font-size:1.05rem;">Calculus &amp; differential equations</h3>
-    <div class="kml-course-grid" style="margin-bottom:1.25rem;">
-      <div class="kml-course"><span>CALCULUS</span>Single-Variable Calculus I</div>
-      <div class="kml-course"><span>CALCULUS</span>Single-Variable Calculus II</div>
-      <div class="kml-course"><span>CALCULUS</span>Multivariable Calculus</div>
-      <div class="kml-course"><span>CALCULUS</span>Calculus for Life Sciences</div>
-      <div class="kml-course"><span>CALCULUS</span>Calculus for Business</div>
-      <div class="kml-course"><span>CALCULUS</span>Elementary Differential Equations</div>
-    </div>
-    <h3 style="text-align:center;color:var(--kml-navy);font-size:1.05rem;">Linear algebra, analysis &amp; beyond</h3>
-    <div class="kml-course-grid" style="margin-bottom:1.25rem;">
-      <div class="kml-course"><span>CORE</span>Introduction to Linear Algebra</div>
-      <div class="kml-course"><span>CORE</span>Linear Algebra</div>
-      <div class="kml-course"><span>CORE</span>Introduction to Abstract Mathematics</div>
-      <div class="kml-course"><span>CORE</span>Abstract Algebra</div>
-      <div class="kml-course"><span>CORE</span>Elementary Analysis</div>
-      <div class="kml-course"><span>CORE</span>Probability</div>
-      <div class="kml-course"><span>CORE</span>Numerical Analysis</div>
-      <div class="kml-course"><span>CORE</span>Number Theory</div>
-    </div>
-    <h3 style="text-align:center;color:var(--kml-navy);font-size:1.05rem;">Graduate-level</h3>
-    <div class="kml-course-grid">
-      <div class="kml-course"><span>GRADUATE</span>General Topology</div>
-      <div class="kml-course"><span>GRADUATE</span>Real Analysis</div>
-      <div class="kml-course"><span>GRADUATE</span>Complex Analysis</div>
-      <div class="kml-course"><span>GRADUATE</span>Graduate Algebra</div>
-      <div class="kml-course"><span>GRADUATE</span>Mathematical Modeling</div>
-      <div class="kml-course"><span>GRADUATE</span>Partial Differential Equations</div>
-      <div class="kml-course"><span>GRADUATE</span>Analytic Number Theory</div>
-      <div class="kml-course"><span>GRADUATE</span>Mathematical Optimization</div>
-      <div class="kml-course"><span>GRADUATE</span>Numerical Linear Algebra</div>
-      <div class="kml-course"><span>GRADUATE</span>Functional Analysis</div>
-    </div>
+    <details class="kml-track" open>
+      <summary>Foundations &amp; high school</summary>
+      <div class="kml-course-grid">
+        <div class="kml-course"><span>FOUNDATIONS</span>Pre-Calculus</div>
+        <div class="kml-course"><span>FOUNDATIONS</span>Algebra &amp; Linear Equations</div>
+        <div class="kml-course"><span>FOUNDATIONS</span>Geometry</div>
+        <div class="kml-course"><span>FOUNDATIONS</span>Trigonometry</div>
+        <div class="kml-course"><span>FOUNDATIONS</span>Statistics &amp; Probability</div>
+      </div>
+    </details>
+    <details class="kml-track">
+      <summary>Community college</summary>
+      <div class="kml-course-grid">
+        <div class="kml-course"><span>COLLEGE</span>Elementary Algebra</div>
+        <div class="kml-course"><span>COLLEGE</span>Intermediate Algebra</div>
+        <div class="kml-course"><span>COLLEGE</span>College Algebra</div>
+        <div class="kml-course"><span>COLLEGE</span>Mathematics for Liberal Arts</div>
+        <div class="kml-course"><span>COLLEGE</span>Finite Mathematics</div>
+        <div class="kml-course"><span>COLLEGE</span>Discrete Mathematics</div>
+        <div class="kml-course"><span>COLLEGE</span>Technical Mathematics</div>
+      </div>
+    </details>
+    <details class="kml-track">
+      <summary>Calculus &amp; differential equations</summary>
+      <div class="kml-course-grid">
+        <div class="kml-course"><span>CALCULUS</span>Single-Variable Calculus I</div>
+        <div class="kml-course"><span>CALCULUS</span>Single-Variable Calculus II</div>
+        <div class="kml-course"><span>CALCULUS</span>Multivariable Calculus</div>
+        <div class="kml-course"><span>CALCULUS</span>Calculus for Life Sciences</div>
+        <div class="kml-course"><span>CALCULUS</span>Calculus for Business</div>
+        <div class="kml-course"><span>CALCULUS</span>Elementary Differential Equations</div>
+      </div>
+    </details>
+    <details class="kml-track">
+      <summary>Linear algebra, analysis &amp; beyond</summary>
+      <div class="kml-course-grid">
+        <div class="kml-course"><span>CORE</span>Introduction to Linear Algebra</div>
+        <div class="kml-course"><span>CORE</span>Linear Algebra</div>
+        <div class="kml-course"><span>CORE</span>Introduction to Abstract Mathematics</div>
+        <div class="kml-course"><span>CORE</span>Abstract Algebra</div>
+        <div class="kml-course"><span>CORE</span>Elementary Analysis</div>
+        <div class="kml-course"><span>CORE</span>Probability</div>
+        <div class="kml-course"><span>CORE</span>Numerical Analysis</div>
+        <div class="kml-course"><span>CORE</span>Number Theory</div>
+      </div>
+    </details>
+    <details class="kml-track">
+      <summary>Graduate-level</summary>
+      <div class="kml-course-grid">
+        <div class="kml-course"><span>GRADUATE</span>General Topology</div>
+        <div class="kml-course"><span>GRADUATE</span>Real Analysis</div>
+        <div class="kml-course"><span>GRADUATE</span>Complex Analysis</div>
+        <div class="kml-course"><span>GRADUATE</span>Graduate Algebra</div>
+        <div class="kml-course"><span>GRADUATE</span>Mathematical Modeling</div>
+        <div class="kml-course"><span>GRADUATE</span>Partial Differential Equations</div>
+        <div class="kml-course"><span>GRADUATE</span>Analytic Number Theory</div>
+        <div class="kml-course"><span>GRADUATE</span>Mathematical Optimization</div>
+        <div class="kml-course"><span>GRADUATE</span>Numerical Linear Algebra</div>
+        <div class="kml-course"><span>GRADUATE</span>Functional Analysis</div>
+      </div>
+    </details>
   </section>
 
   <section class="kml-section kml-bg" id="kml-resources">
@@ -401,17 +417,17 @@ nav_order: 4
     <div class="kml-quotes">
       <div class="kml-quote">
         <div class="who">Jake</div>
-        <div class="meta">Calculus · homework &amp; exams</div>
+        <div class="meta">Single-Variable Calculus II</div>
         <p>Nigus Mathlab helped me stay on track with homework and feel more confident before exams.</p>
       </div>
       <div class="kml-quote">
         <div class="who">Surafel</div>
-        <div class="meta">Live Zoom breakout rooms</div>
+        <div class="meta">Linear Algebra · Zoom breakout rooms</div>
         <p>The Zoom breakout rooms made it easy to get focused help when I needed it most.</p>
       </div>
       <div class="kml-quote">
         <div class="who">Lisa</div>
-        <div class="meta">College mathematics</div>
+        <div class="meta">College Algebra · community college</div>
         <p>Clear explanations and patient tutoring — exactly what I needed for college math.</p>
       </div>
     </div>
