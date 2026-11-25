@@ -124,7 +124,7 @@ nav_order: 4
   </div>
 
   <section class="kml-hero" id="kml-home">
-    <h1>Nigus Mathlab hosts live math study sessions with tutors and peers</h1>
+    <h1>Nigus Mathlab: Online math study sessions with tutors and peers</h1>
     <p class="kml-cred">
       Founded by <strong>Nigus Teklehaymanot</strong>, Ph.D. Candidate in Applied Mathematics at UC Irvine —
       with a Mathlab Coordinator, undergraduate tutors, and Zoom rooms for reading, discussion, and focused tutoring support.
