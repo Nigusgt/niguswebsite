@@ -2,7 +2,7 @@
 layout: page
 permalink: /mathlab/
 title: Mathlab
-description: Nigus Mathlab — online math tutoring center.
+description: Nigus Mathlab — live math study sessions with tutors and peers.
 nav: true
 nav_order: 4
 ---
@@ -122,18 +122,18 @@ nav_order: 4
   </div>
 
   <section class="kml-hero" id="kml-home">
-    <h1>Nigus Mathlab is an online math tutoring center</h1>
+    <h1>Nigus Mathlab hosts live math study sessions with tutors and peers</h1>
     <p class="kml-cred">
       Founded by <strong>Nigus Teklehaymanot</strong>, Ph.D. Candidate in Applied Mathematics at UC Irvine —
-      with a Mathlab Coordinator, undergraduate tutors, and live Zoom breakout rooms for focused help.
+      with a Mathlab Coordinator, undergraduate tutors, and Zoom rooms for reading, discussion, and focused tutoring support.
     </p>
     <a class="sub" href="#kml-courses">Explore courses</a>
     <div>
-      <a class="kml-btn" href="https://cccconfer.zoom.us/j/5971502196" target="_blank" rel="noopener">Join a demo session</a>
+      <a class="kml-btn" href="https://cccconfer.zoom.us/j/5971502196" target="_blank" rel="noopener">Join a study session</a>
     </div>
     <p class="kml-muted" style="max-width:42rem;margin:1.25rem auto 0;">
-      Students join the main Zoom room, get assigned by the Coordinator, then work with a tutor
-      in a breakout room — with live writing on an iPad whiteboard.
+      Enrolled students join the main Zoom room, connect with peers, and get placed by the Coordinator
+      into a breakout room to work through material with a tutor — live on an iPad whiteboard.
     </p>
   </section>
 
@@ -209,21 +209,21 @@ nav_order: 4
     <h2>How it works</h2>
     <div class="kml-flow">
       <div class="kml-step step-student">
-        <strong>1. Student joins</strong>
-        <p>Open the Mathlab Zoom link and enter the main room hosted by the Mathlab Coordinator.</p>
+        <strong>1. Join a study session</strong>
+        <p>Open the Mathlab Zoom link and enter the main room — greet peers and the Mathlab Coordinator.</p>
       </div>
       <div class="kml-arrow">↓</div>
       <div class="kml-step step-host">
-        <strong>2. Coordinator assigns a tutor</strong>
-        <p>Tell the Coordinator your course and topic. They place you with an undergraduate tutor (or the Founder/Instructor for advanced help).</p>
+        <strong>2. Share what you’re working on</strong>
+        <p>Tell the Coordinator your course and goals for the session. They place you with peers and a tutor (or the Founder/Instructor for advanced topics).</p>
         <div style="margin-top:0.75rem;">
-          <a class="kml-btn kml-btn-light" href="https://cccconfer.zoom.us/j/5971502196" target="_blank" rel="noopener">Book / Join Zoom</a>
+          <a class="kml-btn kml-btn-light" href="https://cccconfer.zoom.us/j/5971502196" target="_blank" rel="noopener">Join a session</a>
         </div>
       </div>
       <div class="kml-arrow">↓</div>
       <div class="kml-step step-tutor">
-        <strong>3. Tutor teaches in a breakout room</strong>
-        <p>Work in a separate Zoom breakout room while your tutor writes on an iPad whiteboard — step by step, live.</p>
+        <strong>3. Work through material together</strong>
+        <p>In a Zoom breakout room, read, discuss, and solve with peers while a tutor guides on an iPad whiteboard — step by step, live.</p>
       </div>
     </div>
   </section>
@@ -231,7 +231,7 @@ nav_order: 4
   <section class="kml-section kml-bg">
     <h2>Our approach</h2>
     <p class="kml-muted" style="max-width:42rem;margin:0 auto;text-align:center;">
-      We help students move from memorizing steps to understanding ideas —
+      We build understanding together — accountability with peers, guidance from tutors —
       so computations, proofs, and exams stop feeling mysterious.
     </p>
   </section>
@@ -244,12 +244,12 @@ nav_order: 4
         <p>We aim for mastery: definitions, examples, and the “why” behind each method — not just the final answer.</p>
       </div>
       <div class="kml-pillar">
-        <h3>Results</h3>
-        <p>Sessions are organized around your homework and exams, with practice that builds lasting technique.</p>
+        <h3>Accountability</h3>
+        <p>Show up for live sessions with peers and tutors — homework and exam prep, plus partners who keep you moving.</p>
       </div>
       <div class="kml-pillar">
-        <h3>Access</h3>
-        <p>Live online support for students from high school through graduate coursework, with clear rates on request.</p>
+        <h3>Community</h3>
+        <p>Read and discuss with classmates in breakout rooms, with tutoring support when you need a clearer path.</p>
       </div>
     </div>
   </section>
@@ -267,7 +267,7 @@ nav_order: 4
   <section class="kml-section" id="kml-courses">
     <h2>Courses</h2>
     <p class="kml-muted" style="text-align:center;max-width:44rem;margin:0 auto 1.1rem;">
-      High school, community college, university, and graduate mathematics topics supported through Nigus Mathlab tutoring.
+      High school, community college, university, and graduate mathematics — studied and discussed in live Mathlab sessions.
     </p>
     <details class="kml-track" open>
       <summary>Foundations &amp; high school</summary>
@@ -373,7 +373,7 @@ nav_order: 4
     <h2>Pricing</h2>
     <p class="kml-muted" style="text-align:center;max-width:40rem;margin:0 auto 1.15rem;">
       Plans are available on demand, monthly, or by semester. Contact for current rates —
-      or join a demo session to see how tutoring works.
+      or join a demo session to see how study sessions work.
     </p>
     <div class="kml-price-grid">
       <div class="kml-price">
@@ -391,20 +391,20 @@ nav_order: 4
         <div class="tag">MONTHLY</div>
         <div class="amount">Contact for rates</div>
         <ul>
-          <li>Regular weekly sessions</li>
+          <li>Regular weekly study sessions</li>
           <li>Homework + exam prep</li>
-          <li>Multiple topics</li>
+          <li>Peer discussion + tutoring support</li>
           <li>Priority scheduling</li>
         </ul>
-        <div class="cta"><a class="kml-btn" href="https://cccconfer.zoom.us/j/5971502196" target="_blank" rel="noopener">Join a demo</a></div>
+        <div class="cta"><a class="kml-btn" href="https://cccconfer.zoom.us/j/5971502196" target="_blank" rel="noopener">Join a session</a></div>
       </div>
       <div class="kml-price">
         <div class="tag">SEMESTER</div>
         <div class="amount">Contact for rates</div>
         <ul>
-          <li>Full-term support</li>
+          <li>Full-term study support</li>
           <li>Course pacing plan</li>
-          <li>One-on-one check-ins</li>
+          <li>Peer accountability + check-ins</li>
           <li>Best for ongoing courses</li>
         </ul>
         <div class="cta"><a class="kml-btn kml-btn-light" href="mailto:nigusgtekle@gmail.com">Ask about rates</a></div>
