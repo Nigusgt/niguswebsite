@@ -69,11 +69,16 @@ nav_order: 4
   .kml-quote .who { font-weight:700; color: var(--kml-navy); margin-bottom:0.35rem; }
   .kml-quote .meta { font-size:0.78rem; color: var(--kml-blue); margin-bottom:0.45rem; }
   .kml-quote p { margin:0; color: var(--kml-muted); font-size:0.9rem; line-height:1.5; }
-  .kml-instructor { display:grid; grid-template-columns: 140px 1fr; gap:1.25rem; align-items:center; max-width:44rem; margin:0 auto; background:#fff; border:1px solid #e6edf5; border-radius:0.75rem; padding:1.25rem; box-shadow: 0 8px 24px rgba(30,58,95,0.08); }
+  .kml-instructor { display:grid; grid-template-columns: 140px 1fr; gap:1.25rem; align-items:center; max-width:48rem; margin:0 auto 1.15rem; background:#fff; border:1px solid #e6edf5; border-radius:0.75rem; padding:1.25rem; box-shadow: 0 8px 24px rgba(30,58,95,0.08); }
   .kml-instructor img { width:140px; height:140px; object-fit:cover; border-radius:0.55rem; display:block; }
   .kml-instructor h3 { margin:0 0 0.35rem; color: var(--kml-navy); font-size:1.15rem; }
   .kml-instructor .role { font-family: system-ui, -apple-system, sans-serif; color: var(--kml-blue); font-size:0.88rem; margin-bottom:0.55rem; }
   .kml-instructor p { margin:0; font-family: system-ui, -apple-system, sans-serif; color: var(--kml-muted); font-size:0.9rem; line-height:1.55; }
+  .kml-roles { display:grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap:1rem; max-width:48rem; margin:0 auto; }
+  .kml-role { background:#fff; border:1px solid #e6edf5; border-radius:0.55rem; padding:1.1rem; box-shadow: 0 6px 18px rgba(30,58,95,0.06); }
+  .kml-role h3 { margin:0 0 0.35rem; color: var(--kml-navy); font-size:1.05rem; }
+  .kml-role .role { font-family: system-ui, -apple-system, sans-serif; color: var(--kml-blue); font-size:0.82rem; margin-bottom:0.5rem; letter-spacing:0.02em; }
+  .kml-role p { margin:0; font-family: system-ui, -apple-system, sans-serif; color: var(--kml-muted); font-size:0.88rem; line-height:1.5; }
   .kml-gallery { display:grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap:1rem; }
   .kml-board { display:block; background: var(--kml-board); border-radius:0.55rem; overflow:hidden; border:1px solid #30455f; box-shadow: 0 10px 28px rgba(30,58,95,0.16); transition: transform 0.2s ease, box-shadow 0.2s ease; }
   .kml-board:hover { transform: translateY(-3px); box-shadow: 0 14px 32px rgba(30,58,95,0.22); }
@@ -102,7 +107,7 @@ nav_order: 4
     </div>
     <nav class="kml-nav">
       <a href="#kml-home">HOME</a>
-      <a href="#kml-instructor">INSTRUCTOR</a>
+      <a href="#kml-team">TEAM</a>
       <a href="#kml-courses">COURSES</a>
       <a href="#kml-resources">RESOURCES</a>
       <a href="#kml-pricing">PRICING</a>
@@ -113,30 +118,48 @@ nav_order: 4
   <section class="kml-hero" id="kml-home">
     <h1>Nigus Mathlab is an online math tutoring center</h1>
     <p class="kml-cred">
-      Led by <strong>Nigus Teklehaymanot</strong>, Ph.D. Candidate in Applied Mathematics at UC Irvine —
-      with over 10 years of college and university teaching across calculus, linear algebra, analysis, and beyond.
+      Founded by <strong>Nigus Teklehaymanot</strong>, Ph.D. Candidate in Applied Mathematics at UC Irvine —
+      with a Mathlab Coordinator, undergraduate tutors, and live Zoom breakout rooms for focused help.
     </p>
     <a class="sub" href="#kml-courses">Explore courses</a>
     <div>
       <a class="kml-btn" href="https://cccconfer.zoom.us/j/5971502196" target="_blank" rel="noopener">Join a demo session</a>
     </div>
     <p class="kml-muted" style="max-width:42rem;margin:1.25rem auto 0;">
-      Live Zoom tutoring for high school, community college, university, and graduate mathematics —
-      from foundations through proofs and advanced coursework.
+      Students join the main Zoom room, get assigned by the Coordinator, then work with a tutor
+      in a breakout room — with live writing on an iPad whiteboard.
     </p>
   </section>
 
-  <section class="kml-section" id="kml-instructor">
-    <h2>Your instructor</h2>
+  <section class="kml-section" id="kml-team">
+    <h2>Our team</h2>
     <div class="kml-instructor">
       <img src="{{ '/assets/img/nigus-teklehaymanot-ggb2.jpg' | relative_url }}" alt="Nigus Teklehaymanot" width="140" height="140" loading="eager">
       <div>
         <h3>Nigus Teklehaymanot</h3>
-        <div class="role">Ph.D. Candidate, Applied Mathematics · UC Irvine</div>
+        <div class="role">Founder &amp; Instructor · Ph.D. Candidate, Applied Mathematics · UC Irvine</div>
         <p>
-          Teaching assistant at UCI and longtime instructor at California community colleges.
-          Specialties include single- and multivariable calculus, linear algebra, differential equations,
-          real analysis, probability, and graduate-level topics such as PDEs and mathematical optimization.
+          Founder of Nigus Mathlab. Oversees academic quality and teaches advanced sessions across
+          calculus, linear algebra, differential equations, real analysis, probability, and selected
+          graduate topics. Teaching assistant at UCI and longtime instructor at California community colleges.
+        </p>
+      </div>
+    </div>
+    <div class="kml-roles">
+      <div class="kml-role">
+        <h3>Mathlab Coordinator</h3>
+        <div class="role">Main Zoom host · Tutor assignment</div>
+        <p>
+          Hosts the main Zoom room, greets students, matches each student to the right tutor,
+          and sends them into the correct breakout room.
+        </p>
+      </div>
+      <div class="kml-role">
+        <h3>Undergraduate tutors</h3>
+        <div class="role">Three tutors · Breakout-room teaching</div>
+        <p>
+          Three undergraduate tutors lead small-group sessions in separate Zoom breakout rooms,
+          writing step by step on an iPad so students can follow every line of the solution.
         </p>
       </div>
     </div>
@@ -149,28 +172,28 @@ nav_order: 4
         <div class="head head-orange">School-level math</div>
         <div class="body">
           Support for arithmetic, algebra, and geometry foundations with clear explanations and practice.
-          <div class="meta">Up to 5 people · Difficulty: easy</div>
+          <div class="meta">Assigned by Coordinator · Tutor breakout room</div>
         </div>
       </div>
       <div class="kml-card">
         <div class="head head-green">College-level math</div>
         <div class="body">
           Help with college algebra, trigonometry, statistics, and calculus for coursework and exams.
-          <div class="meta">Up to 4 people · Difficulty: medium</div>
+          <div class="meta">Assigned by Coordinator · Tutor breakout room</div>
         </div>
       </div>
       <div class="kml-card">
         <div class="head head-blue">Advanced undergraduate</div>
         <div class="body">
           Deeper problem-solving for linear algebra, analysis, and challenging homework sets.
-          <div class="meta">Up to 5 people · Difficulty: hard</div>
+          <div class="meta">Tutor or Founder/Instructor as needed</div>
         </div>
       </div>
       <div class="kml-card">
-        <div class="head head-navy">Live instructor support</div>
+        <div class="head head-navy">iPad whiteboard tutoring</div>
         <div class="body">
-          Guided Zoom breakout rooms with a virtual whiteboard — share your screen and work step by step.
-          <div class="meta">Small groups · Live Zoom sessions</div>
+          Tutors write live on an iPad in their breakout room so students see each step clearly.
+          <div class="meta">Separate rooms · Live Zoom sessions</div>
         </div>
       </div>
     </div>
@@ -180,21 +203,21 @@ nav_order: 4
     <h2>How it works</h2>
     <div class="kml-flow">
       <div class="kml-step step-student">
-        <strong>1. Join</strong>
-        <p>Open the Mathlab Zoom link and enter the main room.</p>
+        <strong>1. Student joins</strong>
+        <p>Open the Mathlab Zoom link and enter the main room hosted by the Mathlab Coordinator.</p>
       </div>
       <div class="kml-arrow">↓</div>
       <div class="kml-step step-host">
-        <strong>2. Get placed</strong>
-        <p>Share your course and topic. Prefer a set time? Message to schedule.</p>
+        <strong>2. Coordinator assigns a tutor</strong>
+        <p>Tell the Coordinator your course and topic. They place you with one of the three undergraduate tutors (or the Founder/Instructor for advanced help).</p>
         <div style="margin-top:0.75rem;">
           <a class="kml-btn kml-btn-light" href="https://cccconfer.zoom.us/j/5971502196" target="_blank" rel="noopener">Book / Join Zoom</a>
         </div>
       </div>
       <div class="kml-arrow">↓</div>
       <div class="kml-step step-tutor">
-        <strong>3. Work on the board</strong>
-        <p>Move to a breakout room and solve problems on a shared virtual whiteboard.</p>
+        <strong>3. Tutor teaches in a breakout room</strong>
+        <p>Work in a separate Zoom breakout room while your tutor writes on an iPad whiteboard — step by step, live.</p>
       </div>
     </div>
   </section>
@@ -231,7 +254,7 @@ nav_order: 4
       <div class="kml-stat"><div class="num">10+ years teaching</div><div class="kml-muted">College and university mathematics</div></div>
       <div class="kml-stat"><div class="num">UCI + California CCs</div><div class="kml-muted">Classroom and tutoring experience</div></div>
       <div class="kml-stat"><div class="num">Calc through analysis</div><div class="kml-muted">Including graduate-level topics</div></div>
-      <div class="kml-stat"><div class="num">Live on Zoom</div><div class="kml-muted">Whiteboard-based problem solving</div></div>
+      <div class="kml-stat"><div class="num">Coordinator + tutors</div><div class="kml-muted">Main room routing · iPad breakouts</div></div>
     </div>
   </section>
 
