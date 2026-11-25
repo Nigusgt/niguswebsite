@@ -174,6 +174,29 @@ nav_order: 4
   </section>
 
   <section class="kml-section kml-bg">
+    <h2>How it works</h2>
+    <div class="kml-flow">
+      <div class="kml-step step-student">
+        <strong>1. Join a study session</strong>
+        <p>Open the Mathlab Zoom link and enter the main room — greet peers and the Mathlab Coordinator.</p>
+      </div>
+      <div class="kml-arrow">↓</div>
+      <div class="kml-step step-host">
+        <strong>2. Share what you’re working on</strong>
+        <p>Tell the Coordinator your course and goals for the session. They place you with peers and a tutor (or the Founder/Instructor for advanced topics).</p>
+        <div style="margin-top:0.75rem;">
+          <a class="kml-btn kml-btn-light" href="https://cccconfer.zoom.us/j/5971502196" target="_blank" rel="noopener">Join a session</a>
+        </div>
+      </div>
+      <div class="kml-arrow">↓</div>
+      <div class="kml-step step-tutor">
+        <strong>3. Work through material together</strong>
+        <p>In a Zoom breakout room, read, discuss, and solve with peers while a tutor guides on an iPad whiteboard — step by step, live.</p>
+      </div>
+    </div>
+  </section>
+
+  <section class="kml-section">
     <h2>Breakout rooms</h2>
     <div class="kml-cards">
       <div class="kml-card">
@@ -203,29 +226,6 @@ nav_order: 4
           Tutors write live on an iPad in their breakout room so students see each step clearly.
           <div class="meta">Separate rooms · Live Zoom sessions</div>
         </div>
-      </div>
-    </div>
-  </section>
-
-  <section class="kml-section">
-    <h2>How it works</h2>
-    <div class="kml-flow">
-      <div class="kml-step step-student">
-        <strong>1. Join a study session</strong>
-        <p>Open the Mathlab Zoom link and enter the main room — greet peers and the Mathlab Coordinator.</p>
-      </div>
-      <div class="kml-arrow">↓</div>
-      <div class="kml-step step-host">
-        <strong>2. Share what you’re working on</strong>
-        <p>Tell the Coordinator your course and goals for the session. They place you with peers and a tutor (or the Founder/Instructor for advanced topics).</p>
-        <div style="margin-top:0.75rem;">
-          <a class="kml-btn kml-btn-light" href="https://cccconfer.zoom.us/j/5971502196" target="_blank" rel="noopener">Join a session</a>
-        </div>
-      </div>
-      <div class="kml-arrow">↓</div>
-      <div class="kml-step step-tutor">
-        <strong>3. Work through material together</strong>
-        <p>In a Zoom breakout room, read, discuss, and solve with peers while a tutor guides on an iPad whiteboard — step by step, live.</p>
       </div>
     </div>
   </section>
