@@ -142,7 +142,7 @@ nav_order: 4
   <section class="kml-section" id="kml-team">
     <h2>Our team</h2>
     <div class="kml-instructor">
-      <img src="{{ '/assets/img/nigus-teklehaymanot-portrait-20261125.jpg' | relative_url }}" alt="Nigus Teklehaymanot" width="140" height="140" loading="eager">
+      <img src="{{ '/assets/img/nigus-teklehaymanot-20261126.jpg' | relative_url }}" alt="Nigus Teklehaymanot" width="140" height="140" loading="eager">
       <div>
         <h3>Nigus Teklehaymanot</h3>
         <div class="role">Founder &amp; Instructor · Ph.D. Candidate, Applied Mathematics · UC Irvine</div>

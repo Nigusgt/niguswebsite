@@ -6,8 +6,9 @@ subtitle: Ph.D. Candidate in Applied Mathematics · University of California, Ir
 
 profile:
   align: right
-  image: nigus-teklehaymanot-portrait-20261125.jpg
+  image: nigus-teklehaymanot-20261126.jpg
   image_circular: false # crops the image to make it circular
+og_image: /assets/img/nigus-teklehaymanot-20261126.jpg
   more_info: >
     <p>Irvine, CA</p>
     <p><a href="mailto:teklehan@uci.edu">teklehan@uci.edu</a></p>
@@ -26,6 +27,21 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Person",
+    "name": "Nigus Teklehaymanot",
+    "url": "https://nigusgt.github.io/niguswebsite/",
+    "image": "https://nigusgt.github.io/niguswebsite/assets/img/nigus-teklehaymanot-20261126.jpg",
+    "jobTitle": "Ph.D. Candidate in Applied Mathematics",
+    "affiliation": {
+      "@type": "CollegeOrUniversity",
+      "name": "University of California, Irvine"
+    }
+  }
+</script>
 
 <style>
   /* Theme about layout hardcodes lowercase; show title case instead */
