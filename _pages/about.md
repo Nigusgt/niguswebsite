@@ -8,11 +8,12 @@ profile:
   align: right
   image: nigus-teklehaymanot-20261126.jpg
   image_circular: false # crops the image to make it circular
-og_image: /assets/img/nigus-teklehaymanot-20261126.jpg
   more_info: >
     <p>Irvine, CA</p>
     <p><a href="mailto:teklehan@uci.edu">teklehan@uci.edu</a></p>
     <p><a href="mailto:nigusgtekle@gmail.com">nigusgtekle@gmail.com</a></p>
+
+og_image: /assets/img/nigus-teklehaymanot-20261126.jpg
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
